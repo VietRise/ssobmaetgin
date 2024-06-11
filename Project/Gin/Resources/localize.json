@@ -1,0 +1,1647 @@
+[
+  {
+    "ID": 1,
+    "KEY": "TXT_LOBBY_TICKETFLIGHT_BUTTON_PLAY",
+    "ENGLISH": "PLAY",
+    "INDONESIAN": "BERMAIN"
+  },
+  {
+    "ID": 2,
+    "KEY": "TXT_LOBBY_TICKETFLIGHT_TITLE",
+    "ENGLISH": "CHOOSE YOUR BET AND TARGET SCORE",
+    "INDONESIAN": "PILIH TARUHAN DAN SKOR TARGET ANDA"
+  },
+  {
+    "ID": 3,
+    "KEY": "TXT_LOBBY_SHOP_TABLE_TITLE",
+    "ENGLISH": "SHOP",
+    "INDONESIAN": "TOKO"
+  },
+  {
+    "ID": 4,
+    "KEY": "TXT_LOBBY_SHOP_TABLE_CONDITION_OPEN_TABLE",
+    "ENGLISH": "Unlock previous table",
+    "INDONESIAN": "Membuka kunci tabel sebelumnya"
+  },
+  {
+    "ID": 5,
+    "KEY": "TXT_YESNOCONFIRM_YES_BUTTON",
+    "ENGLISH": "Yes",
+    "INDONESIAN": "Ya"
+  },
+  {
+    "ID": 6,
+    "KEY": "TXT_YESNOCONFIRM_NO_BUTTON",
+    "ENGLISH": "No",
+    "INDONESIAN": "Tidak"
+  },
+  {
+    "ID": 7,
+    "KEY": "TXT_QUIT_POPUP_QUIT",
+    "ENGLISH": "Quit",
+    "INDONESIAN": "Berhenti"
+  },
+  {
+    "ID": 8,
+    "KEY": "TXT_ROOM_TITLE",
+    "ENGLISH": "Room:",
+    "INDONESIAN": "Kamar:"
+  },
+  {
+    "ID": 9,
+    "KEY": "TXT_BET_TITLE",
+    "ENGLISH": "Bet:",
+    "INDONESIAN": "Bertaruh:"
+  },
+  {
+    "ID": 10,
+    "KEY": "TXT_GET_MONEY_POPUP_TITLE",
+    "ENGLISH": "To get money, please choose:",
+    "INDONESIAN": "Untuk mendapatkan uang, silakan pilih:"
+  },
+  {
+    "ID": 11,
+    "KEY": "TXT_NOTIFY_VIDEO_ADS_NOT_AVAILABLE_1",
+    "ENGLISH": "No Internet Connection",
+    "INDONESIAN": "Tidak Ada Koneksi Internet"
+  },
+  {
+    "ID": 12,
+    "KEY": "TXT_NOTIFY_VIDEO_ADS_NOT_AVAILABLE_2",
+    "ENGLISH": "Video Ads is not available, please try later",
+    "INDONESIAN": "Iklan Video tidak tersedia, silakan coba nanti"
+  },
+  {
+    "ID": 13,
+    "KEY": "TXT_NOTIFY_VIDEO_ADS_NOT_AVAILABLE_3",
+    "ENGLISH": "No Internet Connection!\nPlease connect to Internet to get more rewards",
+    "INDONESIAN": "Tidak ada koneksi internet! \nSilakan terhubung ke Internet untuk mendapatkan lebih banyak hadiah"
+  },
+  {
+    "ID": 14,
+    "KEY": "TXT_CONTINUE_TO_PLAY_POPUP_CONTINUE",
+    "ENGLISH": "Continue",
+    "INDONESIAN": "Terus"
+  },
+  {
+    "ID": 15,
+    "KEY": "TXT_SETTINGS_TITLE",
+    "ENGLISH": "SETTINGS",
+    "INDONESIAN": "PENGATURAN"
+  },
+  {
+    "ID": 16,
+    "KEY": "TXT_LANGUAGE_TITLE",
+    "ENGLISH": "Language:",
+    "INDONESIAN": "Bahasa:"
+  },
+  {
+    "ID": 17,
+    "KEY": "TXT_SOUND_TITLE",
+    "ENGLISH": "Sound:",
+    "INDONESIAN": "Bunyi:"
+  },
+  {
+    "ID": 18,
+    "KEY": "TXT_LANGUAGE_EN",
+    "ENGLISH": "English",
+    "INDONESIAN": "English"
+  },
+  {
+    "ID": 19,
+    "KEY": "TXT_LANGUAGE_ID",
+    "ENGLISH": "Bahasa Indonesia",
+    "INDONESIAN": "Bahasa Indonesia"
+  },
+  {
+    "ID": 20,
+    "KEY": "TXT_SOUND_EFFECT",
+    "ENGLISH": "Effect",
+    "INDONESIAN": "Efek"
+  },
+  {
+    "ID": 21,
+    "KEY": "TXT_SOUND_BACKGROUND",
+    "ENGLISH": "Background",
+    "INDONESIAN": "Latar"
+  },
+  {
+    "ID": 22,
+    "KEY": "TXT_PROFILE_TITLE",
+    "ENGLISH": "PROFILE",
+    "INDONESIAN": "PROFIL"
+  },
+  {
+    "ID": 23,
+    "KEY": "TXT_PROFILE_TOTAL_MATCH",
+    "ENGLISH": "Total:",
+    "INDONESIAN": "Seluruh:"
+  },
+  {
+    "ID": 24,
+    "KEY": "TXT_PROFILE_TOTAL_WIN",
+    "ENGLISH": "Win:",
+    "INDONESIAN": "Menang:"
+  },
+  {
+    "ID": 25,
+    "KEY": "TXT_PROFILE_TOTAL_WINRATE",
+    "ENGLISH": "Win rate:",
+    "INDONESIAN": "Tingkat kemenangan:"
+  },
+  {
+    "ID": 26,
+    "KEY": "TXT_HOURLY_BONUS_TITLE",
+    "ENGLISH": "Bonus in:",
+    "INDONESIAN": "Bonus dalam:"
+  },
+  {
+    "ID": 27,
+    "KEY": "TXT_VIDEO_BONUS_TITLE",
+    "ENGLISH": "Watch video - earn money",
+    "INDONESIAN": "Tonton video - dapatkan uang"
+  },
+  {
+    "ID": 28,
+    "KEY": "TXT_ROOM_2_TITLE",
+    "ENGLISH": "2 PLAYERS",
+    "INDONESIAN": "2 PEMAIN"
+  },
+  {
+    "ID": 29,
+    "KEY": "TXT_ROOM_3_TITLE",
+    "ENGLISH": "3 PLAYERS",
+    "INDONESIAN": "3 PEMAIN"
+  },
+  {
+    "ID": 30,
+    "KEY": "TXT_ROOM_4_TITLE",
+    "ENGLISH": "4 PLAYERS",
+    "INDONESIAN": "4 PEMAIN"
+  },
+  {
+    "ID": 31,
+    "KEY": "TXT_ROOM_3_LOBBY_1",
+    "ENGLISH": "CLASSIC GIN",
+    "INDONESIAN": "CLASSIC GIN"
+  },
+  {
+    "ID": 32,
+    "KEY": "TXT_ROOM_3_LOBBY_2",
+    "ENGLISH": "STRAIGHT GIN",
+    "INDONESIAN": "STRAIGHT GIN"
+  },
+  {
+    "ID": 33,
+    "KEY": "TXT_ROOM_3_LOBBY_3",
+    "ENGLISH": "OKLAHOMA",
+    "INDONESIAN": "OKLAHOMA"
+  },
+  {
+    "ID": 34,
+    "KEY": "TXT_SELECT_ROOM_TITLE",
+    "ENGLISH": "Enter room",
+    "INDONESIAN": "Masuk ke kamar"
+  },
+  {
+    "ID": 35,
+    "KEY": "TXT_PLAY_NOW",
+    "ENGLISH": "PLAY NOW",
+    "INDONESIAN": "MAINKAN SEKARANG"
+  },
+  {
+    "ID": 36,
+    "KEY": "TXT_CHOOSE_BET_RULE_TITLE",
+    "ENGLISH": "Rule:",
+    "INDONESIAN": "Peraturan:"
+  },
+  {
+    "ID": 37,
+    "KEY": "TXT_CHOOSE_BET_TABLE_TITLE",
+    "ENGLISH": "Table:",
+    "INDONESIAN": "Meja:"
+  },
+  {
+    "ID": 38,
+    "KEY": "TXT_CHOOSE_BET_TABLE_HINT",
+    "ENGLISH": "Chance to multiply (x2, x3) \n Your WINNING MONEY",
+    "INDONESIAN": "Kesempatan untuk berkembang biak (x2, x3) \n UANG KEMENANGAN Anda"
+  },
+  {
+    "ID": 39,
+    "KEY": "TXT_NEXT_DAY_BONUS",
+    "ENGLISH": "Tomorrow:",
+    "INDONESIAN": "Besok:"
+  },
+  {
+    "ID": 40,
+    "KEY": "TXT_GET_NOW",
+    "ENGLISH": "GET NOW",
+    "INDONESIAN": "DAPAT"
+  },
+  {
+    "ID": 41,
+    "KEY": "TXT_NOT_ENOUGH_MONEY_TO_BUY",
+    "ENGLISH": "You don\u0027t have enough money",
+    "INDONESIAN": "Anda tidak punya cukup uang"
+  },
+  {
+    "ID": 42,
+    "KEY": "TXT_BONUS_TITLE",
+    "ENGLISH": "BONUS WIN",
+    "INDONESIAN": "KEMENANGAN BONUS"
+  },
+  {
+    "ID": 43,
+    "KEY": "TXT_JACKPOT_EXPLAIN",
+    "ENGLISH": "___  HITPOT  ___\n\nBefore starting the round, each player has to \nput a certain amount of money (x{0} bets) into the Hitpot.\n\nPlayer who WINS {1} CONSECUTIVE ROUNDS \nwill win all Hitpot\u0027s money.\n",
+    "INDONESIAN": "___ HITPOT ___\n\nSebelum memulai putaran, setiap pemain harus \nmasukkan sejumlah uang (x{0} taruhan) ke dalam Hitpot.\n\nPemain yang MENANG {1} PUTARAN BERTURUT-TURUT \nakan memenangkan semua uang Hitpot."
+  },
+  {
+    "ID": 44,
+    "KEY": "TXT_EXTRA_JACKPOT_EXPLAIN",
+    "ENGLISH": "___  EXTRA HITPOT  ___\n\nThis room required at least {0}\n\nBefore starting the round, each player has to \nput a certain amount of money (x{1} bets) into the Hitpot.\n\nPlayer who WINS {2} CONSECUTIVE ROUNDS \nwill win all Hitpot\u0027s money.\n",
+    "INDONESIAN": "___ HITPOT EKSTRA ___\n\nRuangan ini membutuhkan setidaknya {0}\n\nSebelum memulai putaran, setiap pemain harus \nmasukkan sejumlah uang (x{1} taruhan) ke dalam Hitpot.\n\nPemain yang MENANG {2} PUTARAN BERTURUT-TURUT \nakan memenangkan semua uang Hitpot."
+  },
+  {
+    "ID": 45,
+    "KEY": "TXT_NOT_ENOUGH_MONEY_TO_PLAY",
+    "ENGLISH": "You don\u0027t have enough money\nYou need at least {0} to continue.",
+    "INDONESIAN": "Anda tidak punya cukup uang\nAnda membutuhkan setidaknya {0} untuk melanjutkan."
+  },
+  {
+    "ID": 46,
+    "KEY": "TXT_NOT_ENOUGH_MONEY_TO_CHANGE_BET",
+    "ENGLISH": "You don\u0027t have enough money\nYou need at least {0} to change bet.",
+    "INDONESIAN": "Anda tidak punya cukup uang\nAnda membutuhkan setidaknya {0} untuk mengubah taruhan."
+  },
+  {
+    "ID": 47,
+    "KEY": "TXT_NOT_ENOUGH_MONEY_TO_JOIN",
+    "ENGLISH": "You don\u0027t have enough money\nYou need at least {0} to join this room.",
+    "INDONESIAN": "Anda tidak punya cukup uang\nAnda membutuhkan setidaknya {0} untuk bergabung dengan ruangan ini."
+  },
+  {
+    "ID": 48,
+    "KEY": "TXT_GOT_IT",
+    "ENGLISH": "Got it",
+    "INDONESIAN": "Mengerti"
+  },
+  {
+    "ID": 49,
+    "KEY": "TXT_SIGN_IN_GGPGS_VIEW_LEADERBOARD",
+    "ENGLISH": "Sign-in Google Play Games\nto access Ranking",
+    "INDONESIAN": "Login ke Google Play Game\nuntuk mengakses Peringkat"
+  },
+  {
+    "ID": 50,
+    "KEY": "TXT_GGPGS_SIGNED",
+    "ENGLISH": "Connected with Google Play Games",
+    "INDONESIAN": "Terhubung dengan Google Play Game"
+  },
+  {
+    "ID": 51,
+    "KEY": "TXT_GGPGS_NOTSIGN"
+  },
+  {
+    "ID": 52,
+    "KEY": "TXT_BUTTON_GGPGS_SIGN_OUT",
+    "ENGLISH": "Sign-out",
+    "INDONESIAN": "Sign-out"
+  },
+  {
+    "ID": 53,
+    "KEY": "TXT_BUTTON_GGPGS_SIGN_IN",
+    "ENGLISH": "Sign-in",
+    "INDONESIAN": "Sign-in"
+  },
+  {
+    "ID": 54,
+    "KEY": "TXT_LEADERBOARD_TITLE",
+    "ENGLISH": "RANKING",
+    "INDONESIAN": "RANKING"
+  },
+  {
+    "ID": 55,
+    "KEY": "TXT_BUTTON_BILLIONAIRE_CLUB",
+    "ENGLISH": "BILLIONAIRE CLUB",
+    "INDONESIAN": "BILLIONAIRE CLUB"
+  },
+  {
+    "ID": 56,
+    "KEY": "TXT_BUTTON_MILLIONAIRE_CLUB",
+    "ENGLISH": "MILLIONAIRE CLUB",
+    "INDONESIAN": "MILLIONAIRE CLUB"
+  },
+  {
+    "ID": 57,
+    "KEY": "TXT_BUTTON_LEVEL_CLUB",
+    "ENGLISH": "LEVEL",
+    "INDONESIAN": "LEVEL"
+  },
+  {
+    "ID": 58,
+    "KEY": "TXT_FREE",
+    "ENGLISH": "Free",
+    "INDONESIAN": "Free"
+  },
+  {
+    "ID": 59,
+    "KEY": "TXT_DOWNLOAD",
+    "ENGLISH": "Install",
+    "INDONESIAN": "Pasang"
+  },
+  {
+    "ID": 60,
+    "KEY": "TXT_RATING_POPUP_TITLE",
+    "ENGLISH": "Do you like {0} ?",
+    "INDONESIAN": "Apakah Anda menyukai {0}?"
+  },
+  {
+    "ID": 61,
+    "KEY": "TXT_RATING_POPUP_CONTENT",
+    "ENGLISH": "Rate us!!!",
+    "INDONESIAN": "Beri kami nilai!!"
+  },
+  {
+    "ID": 62,
+    "KEY": "TXT_RATING_POPUP_THANK_TITLE"
+  },
+  {
+    "ID": 63,
+    "KEY": "TXT_RATING_POPUP_THANK_CONTENT_LOW_STAR",
+    "ENGLISH": "Thank you for rating us!\nWe will improve in next updates",
+    "INDONESIAN": "Terima kasih telah menilai kami!\nKami akan meningkatkan dalam pembaruan berikutnya"
+  },
+  {
+    "ID": 64,
+    "KEY": "TXT_RATING_POPUP_THANK_CONTENT_HIGH_STAR",
+    "ENGLISH": "Thank you for rating us!\nHope you enjoy our game",
+    "INDONESIAN": "Terima kasih telah menilai kami!\nSemoga Anda menikmati permainan kami"
+  },
+  {
+    "ID": 65,
+    "KEY": "TXT_BUTTON_SUBMIT",
+    "ENGLISH": "Submit",
+    "INDONESIAN": "Tunduk"
+  },
+  {
+    "ID": 66,
+    "KEY": "TXT_BUTTON_LATER",
+    "ENGLISH": "Later",
+    "INDONESIAN": "Nanti"
+  },
+  {
+    "ID": 67,
+    "KEY": "TXT_EXIT_GAME_CONFIRM",
+    "ENGLISH": "Do you want to exit game?",
+    "INDONESIAN": "Apakah Anda ingin keluar dari permainan?"
+  },
+  {
+    "ID": 68,
+    "KEY": "TXT_BUTTON_EXIT_GAME",
+    "ENGLISH": "Exit",
+    "INDONESIAN": "Keluar"
+  },
+  {
+    "ID": 69,
+    "KEY": "TXT_PRIVACY_POLICY",
+    "ENGLISH": "Privacy Policy",
+    "INDONESIAN": "Privacy Policy"
+  },
+  {
+    "ID": 70,
+    "KEY": "TXT_SHARE",
+    "ENGLISH": "Share Game",
+    "INDONESIAN": "Bagi"
+  },
+  {
+    "ID": 71,
+    "KEY": "TXT_LIKE_US",
+    "ENGLISH": "Rate Us",
+    "INDONESIAN": "Nilai Kami"
+  },
+  {
+    "ID": 72,
+    "KEY": "TXT_WELCOME_STARTUP",
+    "ENGLISH": "Welcome to {0}",
+    "INDONESIAN": "Selamat datang di {0}"
+  },
+  {
+    "ID": 73,
+    "KEY": "TXT_WELCOME_BACK",
+    "ENGLISH": "Welcome Back Bonus",
+    "INDONESIAN": "Bonus Selamat Datang Kembali"
+  },
+  {
+    "ID": 74,
+    "KEY": "TXT_MORE_GAME",
+    "ENGLISH": "More Games",
+    "INDONESIAN": "Lebih"
+  },
+  {
+    "ID": 75,
+    "KEY": "TXT_GAME_CENTER_TITILE",
+    "ENGLISH": "GAME CENTER",
+    "INDONESIAN": "GAME CENTER"
+  },
+  {
+    "ID": 76,
+    "KEY": "TXT_GAME_CENTER_ITEM_STATUS_DOWNLOAD",
+    "ENGLISH": "Install",
+    "INDONESIAN": "Install"
+  },
+  {
+    "ID": 77,
+    "KEY": "TXT_GAME_CENTER_ITEM_STATUS_PLAY_NOW",
+    "ENGLISH": "Play now",
+    "INDONESIAN": "Play now"
+  },
+  {
+    "ID": 78,
+    "KEY": "TXT_GAME_CENTER_ITEM_STATUS_PLAYING",
+    "ENGLISH": "Playing",
+    "INDONESIAN": "Bermain"
+  },
+  {
+    "ID": 79,
+    "KEY": "TXT_GAME_CENTER_ITEM_STATUS_COMMING_SOON",
+    "ENGLISH": "Coming soon",
+    "INDONESIAN": "Coming soon"
+  },
+  {
+    "ID": 80,
+    "KEY": "TXT_GAME_CENTER_ITEM_STATUS_UPDATE",
+    "ENGLISH": "Update",
+    "INDONESIAN": "Pemutakhiran"
+  },
+  {
+    "ID": 81,
+    "KEY": "TXT_GAME_CENTER_IS_MAINTAINING",
+    "ENGLISH": "Currently maintaining",
+    "INDONESIAN": "Saat ini mempertahankan"
+  },
+  {
+    "ID": 82,
+    "KEY": "TXT_STEP",
+    "ENGLISH": "Step {0}",
+    "INDONESIAN": "Step {0}"
+  },
+  {
+    "ID": 83,
+    "KEY": "TXT_LUCKY_DRAW",
+    "ENGLISH": "Lucky draw",
+    "INDONESIAN": "Lucky draw"
+  },
+  {
+    "ID": 84,
+    "KEY": "TXT_UP_TO",
+    "ENGLISH": "Up to",
+    "INDONESIAN": "Hingga"
+  },
+  {
+    "ID": 85,
+    "KEY": "TXT_CLAIM_NOW",
+    "ENGLISH": "Claim now",
+    "INDONESIAN": "Klaim"
+  },
+  {
+    "ID": 86,
+    "KEY": "TXT_CLAIM_VIDEO_NOTICE",
+    "ENGLISH": "*Video ads*",
+    "INDONESIAN": "*Video ads*"
+  },
+  {
+    "ID": 87,
+    "KEY": "TXT_CLAIMED",
+    "ENGLISH": "Claimed",
+    "INDONESIAN": "Mengklaim"
+  },
+  {
+    "ID": 88,
+    "KEY": "TXT_VIDEO_REWARD_MONEY",
+    "ENGLISH": "Congratulations! You got",
+    "INDONESIAN": "Selamat! Anda punya"
+  },
+  {
+    "ID": 89,
+    "KEY": "TXT_NOTICE_1",
+    "ENGLISH": "*From step 2, you can claim reward immediately by watching video ads*",
+    "INDONESIAN": "*Dari langkah 2, Anda dapat langsung mengklaim reward dengan menonton iklan video*"
+  },
+  {
+    "ID": 90,
+    "KEY": "TXT_NOTICE_2",
+    "ENGLISH": "*The higher level you achieve, the more reward you can get*",
+    "INDONESIAN": "*Semakin tinggi level yang Anda capai, semakin banyak hadiah yang bisa Anda dapatkan*"
+  },
+  {
+    "ID": 91,
+    "KEY": "TXT_NOTICE_3",
+    "ENGLISH": "There is no more reward for today",
+    "INDONESIAN": "Tidak ada lagi hadiah untuk hari ini"
+  },
+  {
+    "ID": 92,
+    "KEY": "TXT_NOTICE_4",
+    "ENGLISH": "Comeback tomorrow to get more",
+    "INDONESIAN": "Comeback besok untuk mendapatkan lebih banyak"
+  },
+  {
+    "ID": 93,
+    "KEY": "TXT_NOTICE_5",
+    "ENGLISH": "*Rewards will be reset",
+    "INDONESIAN": "*Hadiah akan diatur ulang"
+  },
+  {
+    "ID": 94,
+    "KEY": "TXT_NOTICE_6",
+    "ENGLISH": "Nextday*",
+    "INDONESIAN": "Hari berikutnya*"
+  },
+  {
+    "ID": 95,
+    "KEY": "TXT_NOTICE_RESET",
+    "ENGLISH": "Rewards will be reset after",
+    "INDONESIAN": "Hadiah akan diatur ulang setelah"
+  },
+  {
+    "ID": 96,
+    "KEY": "TXT_OPEN_REWARD",
+    "ENGLISH": "Open",
+    "INDONESIAN": "Buka"
+  },
+  {
+    "ID": 97,
+    "KEY": "TXT_NOTICE_RESET_REWARD",
+    "ENGLISH": "Your rewards have been reset",
+    "INDONESIAN": "Hadiah Anda telah diatur ulang"
+  },
+  {
+    "ID": 98,
+    "KEY": "TXT_GET_REWARD",
+    "ENGLISH": "Claim now",
+    "INDONESIAN": "Klaim"
+  },
+  {
+    "ID": 99,
+    "KEY": "TXT_BUTTON_SUGGEST_LATER",
+    "ENGLISH": "Later",
+    "INDONESIAN": "Nanti"
+  },
+  {
+    "ID": 100,
+    "KEY": "TXT_BUTTON_SUGGEST_UPDATE",
+    "ENGLISH": "Update",
+    "INDONESIAN": "Pemutakhiran"
+  },
+  {
+    "ID": 101,
+    "KEY": "TXT_BUTTON_SUGGEST_CONTENT",
+    "ENGLISH": "New updates arrived",
+    "INDONESIAN": "Pembaruan baru tiba"
+  },
+  {
+    "ID": 102,
+    "KEY": "TXT_MAILBOX_TITLE",
+    "ENGLISH": "MAILBOX",
+    "INDONESIAN": "MAILBOX"
+  },
+  {
+    "ID": 103,
+    "KEY": "TXT_GET_BONUS_MONEY",
+    "ENGLISH": "Congratulations! You got",
+    "INDONESIAN": "Selamat! Anda punya"
+  },
+  {
+    "ID": 104,
+    "KEY": "TXT_MAILBOX_EMPTY",
+    "ENGLISH": "You have no mail",
+    "INDONESIAN": "Anda tidak memiliki email"
+  },
+  {
+    "ID": 105,
+    "KEY": "TXT_MAILBOX_ACTION_READ",
+    "ENGLISH": "View",
+    "INDONESIAN": "Melihat"
+  },
+  {
+    "ID": 106,
+    "KEY": "TXT_MAILBOX_ACTION_UPDATE",
+    "ENGLISH": "Update",
+    "INDONESIAN": "Update"
+  },
+  {
+    "ID": 107,
+    "KEY": "TXT_MAILBOX_ACTION_CLAIM_REWARD",
+    "ENGLISH": "Claim",
+    "INDONESIAN": "Claim"
+  },
+  {
+    "ID": 108,
+    "KEY": "TXT_MAILBOX_ACTION_FUNCTION",
+    "ENGLISH": "Go",
+    "INDONESIAN": "Pergi"
+  },
+  {
+    "ID": 109,
+    "KEY": "TXT_MAILBOX_ACTION_SHARE",
+    "ENGLISH": "Share",
+    "INDONESIAN": "Share"
+  },
+  {
+    "ID": 110,
+    "KEY": "TXT_DAY",
+    "ENGLISH": "day",
+    "INDONESIAN": "hari"
+  },
+  {
+    "ID": 111,
+    "KEY": "TXT_PLURAL_DAY",
+    "ENGLISH": "days",
+    "INDONESIAN": "Hari"
+  },
+  {
+    "ID": 112,
+    "KEY": "TXT_HOUR",
+    "ENGLISH": "hour",
+    "INDONESIAN": "jam"
+  },
+  {
+    "ID": 113,
+    "KEY": "TXT_PLURAL_HOUR",
+    "ENGLISH": "hours",
+    "INDONESIAN": "Jam"
+  },
+  {
+    "ID": 114,
+    "KEY": "TXT_MINUTE",
+    "ENGLISH": "minute",
+    "INDONESIAN": "menit"
+  },
+  {
+    "ID": 115,
+    "KEY": "TXT_PLURAL_MINUTE",
+    "ENGLISH": "minutes",
+    "INDONESIAN": "Menit"
+  },
+  {
+    "ID": 116,
+    "KEY": "TXT_SECOND",
+    "ENGLISH": "second",
+    "INDONESIAN": "kedua"
+  },
+  {
+    "ID": 117,
+    "KEY": "TXT_PLURAL_SECOND",
+    "ENGLISH": "seconds",
+    "INDONESIAN": "Detik"
+  },
+  {
+    "ID": 118,
+    "KEY": "TXT_TIME_AGO",
+    "ENGLISH": "{0} {1} ago",
+    "INDONESIAN": "{0} {1} lalu"
+  },
+  {
+    "ID": 119,
+    "KEY": "TXT_MAILBOX_REWARD_EXPIRE_TIME",
+    "ENGLISH": "Expire at: {0}",
+    "INDONESIAN": "Berakhir pada: {0}"
+  },
+  {
+    "ID": 120,
+    "KEY": "TXT_DATE",
+    "ENGLISH": "{0}/{1}/{2}",
+    "INDONESIAN": "{0}/{1}/{2}"
+  },
+  {
+    "ID": 121,
+    "KEY": "TXT_GAME_GIN",
+    "ENGLISH": "Gin Rummy Offline",
+    "INDONESIAN": "Gin Rummy Offline"
+  },
+  {
+    "ID": 122,
+    "KEY": "TXT_ROOM_1",
+    "ENGLISH": "CLASSIC GIN",
+    "INDONESIAN": "CLASSIC GIN"
+  },
+  {
+    "ID": 123,
+    "KEY": "TXT_ROOM_2",
+    "ENGLISH": "STRAIGHT GIN",
+    "INDONESIAN": "STRAIGHT GIN"
+  },
+  {
+    "ID": 124,
+    "KEY": "TXT_ROOM_3",
+    "ENGLISH": "OKLAHOMA",
+    "INDONESIAN": "OKLAHOMA"
+  },
+  {
+    "ID": 125,
+    "KEY": "TXT_NOTIFY_WINNING_BET",
+    "ENGLISH": "BONUS WIN: {0} WINNING MONEY!!!\n\n* Current table gives you {1}% chance to\n DOUBLE or TRIPLE winning money\n\n* To increase your multiplying chance, \nyou can purchase other tables at SHOP",
+    "INDONESIAN": "BONUS MENANG: {0} MEMENANGKAN UANG!!\n\n* Tabel saat ini memberi Anda kesempatan {1}% untuk\n Uang kemenangan DOUBLE atau TRIPLE\n\n* Untuk meningkatkan kesempatan mengalikan Anda, \nAnda dapat membeli meja lain di SHOP"
+  },
+  {
+    "ID": 126,
+    "KEY": "TXT_DOUBLE",
+    "ENGLISH": "DOUBLE",
+    "INDONESIAN": "DOUBLE"
+  },
+  {
+    "ID": 127,
+    "KEY": "TXT_TRIPLE",
+    "ENGLISH": "TRIPLE",
+    "INDONESIAN": "TRIPLE"
+  },
+  {
+    "ID": 128,
+    "KEY": "TXT_CHANGE_AVATAR_POPUP_TITLE",
+    "ENGLISH": "CHOOSE YOUR NAME \u0026 AVATAR",
+    "INDONESIAN": "PILIH NAMA \u0026; AVATAR ANDA"
+  },
+  {
+    "ID": 129,
+    "KEY": "TXT_CHANGE_AVATAR_BUTTON_SAVE",
+    "ENGLISH": "Save",
+    "INDONESIAN": "Simpan"
+  },
+  {
+    "ID": 130,
+    "KEY": "TXT_CHANGE_AVATAR_BUTTON_DEVICE",
+    "ENGLISH": "Choose from device",
+    "INDONESIAN": "Pilih dari perangkat"
+  },
+  {
+    "ID": 131,
+    "KEY": "TXT_CHANGE_AVATAR_CONFIRM_SAVE",
+    "ENGLISH": "Do you want to save change?",
+    "INDONESIAN": "Apakah Anda ingin menyimpan kembalian?"
+  },
+  {
+    "ID": 132,
+    "KEY": "TXT_CHANGE_AVATAR_EDIT",
+    "ENGLISH": "Edit",
+    "INDONESIAN": "Mengedit"
+  },
+  {
+    "ID": 133,
+    "KEY": "TXT_BET_SO_FAR_REQUIRE",
+    "ENGLISH": "At least\n{0}",
+    "INDONESIAN": "Setidaknya\n{0}"
+  },
+  {
+    "ID": 134,
+    "KEY": "TXT_SECRET_MELD_CAN_CHALLENGE_EXPLAIN",
+    "ENGLISH": "___ IMPORTANT RULE UPDATE ___\n\nSECRET MELD CAN CHALLENGE\nPlayer can now challenge when having secret meld \non hand even if don\u0027t have dropped meld.",
+    "INDONESIAN": "___ PEMBARUAN ATURAN PENTING ___\n\nRAHASIA MELD BISA MENANTANG\nPemain sekarang dapat menantang ketika memiliki penggabungan rahasia \ndi tangan bahkan jika tidak menjatuhkan Meld."
+  },
+  {
+    "ID": 135,
+    "KEY": "TXT_NO_ADS_NOTE",
+    "ENGLISH": "for interfering ads",
+    "INDONESIAN": "untuk mengganggu iklan"
+  },
+  {
+    "ID": 136,
+    "KEY": "TXT_SHARE_APP_TITLE",
+    "ENGLISH": "Gin Rummy Offline",
+    "INDONESIAN": "Gin Rummy Offline"
+  },
+  {
+    "ID": 137,
+    "KEY": "TXT_SHARE_APP_MESSAGE",
+    "ENGLISH": "I love this {0} so much.\nIt\u0027s totally free. Click link below to play: \n{1}",
+    "INDONESIAN": "Saya sangat menyukai {0} ini.\nIni benar-benar gratis. Klik tautan di bawah ini untuk bermain: \n{1}"
+  },
+  {
+    "ID": 138,
+    "KEY": "TXT_SIGN_IN_GAME_CENTER_VIEW_LEADERBOARD",
+    "ENGLISH": "Sign-in Game Center\nto access Ranking",
+    "INDONESIAN": "Pusat Permainan Masuk\nuntuk mengakses Peringkat"
+  },
+  {
+    "ID": 139,
+    "KEY": "TXT_GAME_CENTER_SIGNED",
+    "ENGLISH": "Connected with Game Center",
+    "INDONESIAN": "Connected with Game Center"
+  },
+  {
+    "ID": 140,
+    "KEY": "TXT_VERSION_AND_COPYRIGHT",
+    "ENGLISH": "Version {0} Copyright © 2023 by {1}",
+    "INDONESIAN": "Version {0} Copyright © 2023 by {1}"
+  },
+  {
+    "ID": 141,
+    "KEY": "TXT_CONFIRM_WATCH_VIDEO_POPUP_LINE1",
+    "ENGLISH": "Watch Video Ads to get",
+    "INDONESIAN": "Tonton Iklan Video untuk mendapatkan"
+  },
+  {
+    "ID": 142,
+    "KEY": "TXT_CONFIRM_WATCH_VIDEO_POPUP_1_LINE2",
+    "ENGLISH": "{0}",
+    "INDONESIAN": "{0}"
+  },
+  {
+    "ID": 143,
+    "KEY": "TXT_CONFIRM_WATCH_VIDEO_POPUP_2_LINE2",
+    "ENGLISH": "Lucky Draw (up to {0})",
+    "INDONESIAN": "Lucky Draw (hingga {0})"
+  },
+  {
+    "ID": 144,
+    "KEY": "TXT_CONFIRM_WATCH_VIDEO_BUTTON_YES",
+    "ENGLISH": "Watch Ads",
+    "INDONESIAN": "Tonton Iklan"
+  },
+  {
+    "ID": 145,
+    "KEY": "TXT_CONFIRM_WATCH_VIDEO_BUTTON_NO",
+    "ENGLISH": "Dismiss",
+    "INDONESIAN": "Mengabaikan"
+  },
+  {
+    "ID": 146,
+    "KEY": "TXT_BUY_TABLE_CONTENT",
+    "ENGLISH": "Are you sure to purchase this table?",
+    "INDONESIAN": "Apakah Anda yakin untuk membeli meja ini?"
+  },
+  {
+    "ID": 147,
+    "KEY": "TXT_BUY_TABLE_CONFIRM",
+    "ENGLISH": "Purchase",
+    "INDONESIAN": "Beli"
+  },
+  {
+    "ID": 148,
+    "KEY": "TXT_BET_MAX",
+    "ENGLISH": "MAX BET",
+    "INDONESIAN": "MAX BET"
+  },
+  {
+    "ID": 149,
+    "KEY": "TXT_ADS_BY",
+    "ENGLISH": "Ads by {0}",
+    "INDONESIAN": "Iklan oleh {0}"
+  },
+  {
+    "ID": 150,
+    "KEY": "TXT_TARGET_SCORE_TEMPLATE",
+    "ENGLISH": "{0} pt",
+    "INDONESIAN": "{0} pt"
+  },
+  {
+    "ID": 151,
+    "KEY": "TXT_MULTIPLY_TEMPLATE",
+    "ENGLISH": "x{0}",
+    "INDONESIAN": "x{0}"
+  },
+  {
+    "ID": 152,
+    "KEY": "TXT_DEADWOOD",
+    "ENGLISH": "deadwood",
+    "INDONESIAN": "deadwood"
+  },
+  {
+    "ID": 153,
+    "KEY": "TXT_SCORE_GAP",
+    "ENGLISH": "gap",
+    "INDONESIAN": "gap"
+  },
+  {
+    "ID": 154,
+    "KEY": "TXT_TARGET_SCORE_1",
+    "ENGLISH": "target score",
+    "INDONESIAN": "target score"
+  },
+  {
+    "ID": 155,
+    "KEY": "TXT_SPADES_DOUBLE",
+    "ENGLISH": "Spades Double",
+    "INDONESIAN": "Spades Double"
+  },
+  {
+    "ID": 156,
+    "KEY": "TXT_NORMAL",
+    "ENGLISH": "Normal",
+    "INDONESIAN": "Biasa"
+  },
+  {
+    "ID": 157,
+    "KEY": "TXT_YOUR_TURN",
+    "ENGLISH": "Your turn",
+    "INDONESIAN": "Giliran Anda"
+  },
+  {
+    "ID": 158,
+    "KEY": "TXT_RIVAL_TURN",
+    "ENGLISH": "Rival\u0027s turn",
+    "INDONESIAN": "Giliran saingan"
+  },
+  {
+    "ID": 159,
+    "KEY": "TXT_SCORE",
+    "ENGLISH": "score",
+    "INDONESIAN": "score"
+  },
+  {
+    "ID": 160,
+    "KEY": "TXT_USER_TAKING_STATUS",
+    "ENGLISH": "Taking card",
+    "INDONESIAN": "Taking card"
+  },
+  {
+    "ID": 161,
+    "KEY": "TXT_USER_THROWING_STATUS",
+    "ENGLISH": "Fighting card",
+    "INDONESIAN": "Fighting card"
+  },
+  {
+    "ID": 162,
+    "KEY": "TXT_USER_GIVING_STATUS",
+    "ENGLISH": "Sapawing card",
+    "INDONESIAN": "Sapawing card"
+  },
+  {
+    "ID": 163,
+    "KEY": "TXT_USER_SHOWING_STATUS",
+    "ENGLISH": "Downing card",
+    "INDONESIAN": "Downing card"
+  },
+  {
+    "ID": 164,
+    "KEY": "TXT_BUTTON_ARRANGE_CARD",
+    "ENGLISH": "Sort",
+    "INDONESIAN": "Sort"
+  },
+  {
+    "ID": 165,
+    "KEY": "TXT_BUTTON_AUTO_MELD",
+    "ENGLISH": "Auto Meld",
+    "INDONESIAN": "Auto Meld"
+  },
+  {
+    "ID": 166,
+    "KEY": "TXT_BUTTON_FIGHT_CARD",
+    "ENGLISH": "Fight",
+    "INDONESIAN": "Fight"
+  },
+  {
+    "ID": 167,
+    "KEY": "TXT_BUTTON_GIVE_CARD",
+    "ENGLISH": "Sapaw",
+    "INDONESIAN": "Sapaw"
+  },
+  {
+    "ID": 168,
+    "KEY": "TXT_BUTTON_DROP_CARD",
+    "ENGLISH": "Drop",
+    "INDONESIAN": "Drop"
+  },
+  {
+    "ID": 169,
+    "KEY": "TXT_BUTTON_DUMP_CARD",
+    "ENGLISH": "Dump",
+    "INDONESIAN": "Dump"
+  },
+  {
+    "ID": 170,
+    "KEY": "TXT_BUTTON_PICK_CARD",
+    "ENGLISH": "Pick",
+    "INDONESIAN": "Pick"
+  },
+  {
+    "ID": 171,
+    "KEY": "TXT_BUTTON_GROUP_CARD",
+    "ENGLISH": "Group",
+    "INDONESIAN": "Kelompok"
+  },
+  {
+    "ID": 172,
+    "KEY": "TXT_BUTTON_UNGROUP_CARD",
+    "ENGLISH": "Ungroup",
+    "INDONESIAN": "Pisahkan grup"
+  },
+  {
+    "ID": 173,
+    "KEY": "TXT_BUTTON_START_GAME",
+    "ENGLISH": "Start",
+    "INDONESIAN": "Mulai"
+  },
+  {
+    "ID": 174,
+    "KEY": "TXT_CAN_NOT_QUIT_AND_NOTIFY",
+    "ENGLISH": "Please wait till end of the match",
+    "INDONESIAN": "Harap tunggu sampai akhir pertandingan"
+  },
+  {
+    "ID": 175,
+    "KEY": "TXT_WAITING_PLAYERS",
+    "ENGLISH": "Please waiting for other players",
+    "INDONESIAN": "Silakan menunggu pemain lain"
+  },
+  {
+    "ID": 176,
+    "KEY": "TXT_WAITING_START_GAME",
+    "ENGLISH": "The match will be started after:",
+    "INDONESIAN": "Pertandingan akan dimulai setelah:"
+  },
+  {
+    "ID": 177,
+    "KEY": "TXT_CONTINUE",
+    "ENGLISH": "Continue",
+    "INDONESIAN": "Terus"
+  },
+  {
+    "ID": 178,
+    "KEY": "TXT_CHOOSE_BET",
+    "ENGLISH": "Change bet",
+    "INDONESIAN": "Ubah taruhan"
+  },
+  {
+    "ID": 179,
+    "KEY": "TXT_BUTTON_HISTORY",
+    "ENGLISH": "History",
+    "INDONESIAN": "Sejarah"
+  },
+  {
+    "ID": 180,
+    "KEY": "TXT_MORE_THAN_ONE_CARD_SELECTED",
+    "ENGLISH": "Select only 1 card",
+    "INDONESIAN": "Pilih hanya 1 kartu"
+  },
+  {
+    "ID": 181,
+    "KEY": "TXT_BET_IN_GAME_TITLE",
+    "ENGLISH": "Bet:",
+    "INDONESIAN": "Bertaruh:"
+  },
+  {
+    "ID": 182,
+    "KEY": "TXT_CAN_NOT_THROW",
+    "ENGLISH": "Choosed card is invalid",
+    "INDONESIAN": "Kartu yang dipilih tidak valid"
+  },
+  {
+    "ID": 183,
+    "KEY": "TXT_NO_CARD_SELECTED",
+    "ENGLISH": "Please select hand cards",
+    "INDONESIAN": "Silakan pilih kartu tangan"
+  },
+  {
+    "ID": 184,
+    "KEY": "TXT_SHOW_CARD_INVALID",
+    "ENGLISH": "Choose invalid cards",
+    "INDONESIAN": "Memilih kartu yang tidak valid"
+  },
+  {
+    "ID": 185,
+    "KEY": "TXT_SEND_CARD_INVALID",
+    "ENGLISH": "Send invalid cards",
+    "INDONESIAN": "Mengirim kartu yang tidak valid"
+  },
+  {
+    "ID": 186,
+    "KEY": "TXT_FIGHT_INVALID",
+    "ENGLISH": "Could not fight",
+    "INDONESIAN": "Tidak bisa bertarung"
+  },
+  {
+    "ID": 187,
+    "KEY": "TXT_FOLD_INVALID",
+    "ENGLISH": "Could not fold",
+    "INDONESIAN": "Tidak bisa melipat"
+  },
+  {
+    "ID": 188,
+    "KEY": "TXT_CHALLENGE_INVALID",
+    "ENGLISH": "Could not challenge",
+    "INDONESIAN": "Tidak bisa menantang"
+  },
+  {
+    "ID": 189,
+    "KEY": "TXT_GROUP_MELD_STRAIGHT_FLUSH",
+    "ENGLISH": "Straight Flush",
+    "INDONESIAN": "Siram lurus"
+  },
+  {
+    "ID": 190,
+    "KEY": "TXT_GROUP_MELD_THREE_OF_A_KIND",
+    "ENGLISH": "3 Of a Kind",
+    "INDONESIAN": "3 Dari Jenis"
+  },
+  {
+    "ID": 191,
+    "KEY": "TXT_GROUP_MELD_SECRET",
+    "ENGLISH": "Secret Meld",
+    "INDONESIAN": "Rahasia Meld"
+  },
+  {
+    "ID": 192,
+    "KEY": "TXT_CHALLENGER",
+    "ENGLISH": "Challenger",
+    "INDONESIAN": "Penantang"
+  },
+  {
+    "ID": 193,
+    "KEY": "TXT_FIGHT_CHALLENGE_CONTENT",
+    "ENGLISH": "Your score is {0}.",
+    "INDONESIAN": "Skor Anda {0}."
+  },
+  {
+    "ID": 194,
+    "KEY": "TXT_FOLD",
+    "ENGLISH": "Fold",
+    "INDONESIAN": "Fold"
+  },
+  {
+    "ID": 195,
+    "KEY": "TXT_CHALLENGE",
+    "ENGLISH": "Challenge!",
+    "INDONESIAN": "Challenge!"
+  },
+  {
+    "ID": 196,
+    "KEY": "TXT_GAME_RESULT_SCORE",
+    "ENGLISH": "Score",
+    "INDONESIAN": "Score"
+  },
+  {
+    "ID": 197,
+    "KEY": "TXT_GAME_RESULT_PROFIT",
+    "ENGLISH": "Profit",
+    "INDONESIAN": "Profit"
+  },
+  {
+    "ID": 198,
+    "KEY": "TXT_GAME_RESULT_NORMAL_WIN",
+    "ENGLISH": "Normal Win",
+    "INDONESIAN": "Normal Win"
+  },
+  {
+    "ID": 199,
+    "KEY": "TXT_GAME_RESULT_GIN",
+    "ENGLISH": "Tongits",
+    "INDONESIAN": "Tongits"
+  },
+  {
+    "ID": 200,
+    "KEY": "TXT_GAME_RESULT_SECRET_MELDS",
+    "ENGLISH": "Secret Melds",
+    "INDONESIAN": "Secret Melds"
+  },
+  {
+    "ID": 201,
+    "KEY": "TXT_GAME_RESULT_BONUS_CARD",
+    "ENGLISH": "Bonus Cards (*A, *K)",
+    "INDONESIAN": "Bonus Cards (*A, *K)"
+  },
+  {
+    "ID": 202,
+    "KEY": "TXT_GAME_RESULT_BURNED_PLAYER",
+    "ENGLISH": "Burned Players",
+    "INDONESIAN": "Burned Players"
+  },
+  {
+    "ID": 203,
+    "KEY": "TXT_GAME_RESULT_CHALLENGER",
+    "ENGLISH": "Challengers",
+    "INDONESIAN": "Challengers"
+  },
+  {
+    "ID": 204,
+    "KEY": "TXT_GAME_RESULT_HITPOT",
+    "ENGLISH": "Hitpot",
+    "INDONESIAN": "Hitpot"
+  },
+  {
+    "ID": 205,
+    "KEY": "TXT_GAME_RESULT_BONUS_WIN",
+    "ENGLISH": "Bonus Win",
+    "INDONESIAN": "Bonus Win"
+  },
+  {
+    "ID": 206,
+    "KEY": "TXT_GAME_RESULT_TYPE_GIN",
+    "ENGLISH": "TONGITS",
+    "INDONESIAN": "TONGITS"
+  },
+  {
+    "ID": 207,
+    "KEY": "TXT_GAME_RESULT_TYPE_WIN",
+    "ENGLISH": "WINNER",
+    "INDONESIAN": "WINNER"
+  },
+  {
+    "ID": 208,
+    "KEY": "TXT_GAME_RESULT_TYPE_LOSE",
+    "ENGLISH": "Loser",
+    "INDONESIAN": "Loser"
+  },
+  {
+    "ID": 209,
+    "KEY": "TXT_GAME_RESULT_TYPE_BURN",
+    "ENGLISH": "Burned",
+    "INDONESIAN": "Burned"
+  },
+  {
+    "ID": 210,
+    "KEY": "TXT_GAME_RESULT_TYPE_FOLD",
+    "ENGLISH": "Fold",
+    "INDONESIAN": "Fold"
+  },
+  {
+    "ID": 211,
+    "KEY": "TXT_GAME_RESULT_TYPE_FIGHT",
+    "ENGLISH": "Fight",
+    "INDONESIAN": "Fight"
+  },
+  {
+    "ID": 212,
+    "KEY": "TXT_GAME_RESULT_TYPE_CHALLENGE",
+    "ENGLISH": "Challenge",
+    "INDONESIAN": "Challenge"
+  },
+  {
+    "ID": 213,
+    "KEY": "TXT_GAME_RESULT_STATUS_BURNED",
+    "ENGLISH": "Burned",
+    "INDONESIAN": "Burned"
+  },
+  {
+    "ID": 214,
+    "KEY": "TXT_GAME_RESULT_STATUS_FOLD",
+    "ENGLISH": "Fold",
+    "INDONESIAN": "Fold"
+  },
+  {
+    "ID": 215,
+    "KEY": "TXT_GAME_RESULT_STATUS_CHALLENGE",
+    "ENGLISH": "Challenge!",
+    "INDONESIAN": "Challenge!"
+  },
+  {
+    "ID": 216,
+    "KEY": "TXT_GAME_RESULT_STATUS_FIGHT",
+    "ENGLISH": "Fight!",
+    "INDONESIAN": "Fight!"
+  },
+  {
+    "ID": 217,
+    "KEY": "TXT_POT",
+    "ENGLISH": "POT:",
+    "INDONESIAN": "POT:"
+  },
+  {
+    "ID": 218,
+    "KEY": "TXT_NO_PLAYER",
+    "ENGLISH": "No Player",
+    "INDONESIAN": "No Player"
+  },
+  {
+    "ID": 219,
+    "KEY": "TXT_JACKPOT",
+    "ENGLISH": "JACKPOT",
+    "INDONESIAN": "JACKPOT"
+  },
+  {
+    "ID": 220,
+    "KEY": "TXT_ROUND",
+    "ENGLISH": "Round:",
+    "INDONESIAN": "Bulat:"
+  },
+  {
+    "ID": 221,
+    "KEY": "TXT_HITPOT",
+    "ENGLISH": "HITPOT"
+  },
+  {
+    "ID": 222,
+    "KEY": "TXT_CAN_NOT_QUIT_ROUND",
+    "ENGLISH": "You are in round.\nDo you want to quit room?",
+    "INDONESIAN": "You are in round.\nDo you want to quit room?"
+  },
+  {
+    "ID": 223,
+    "KEY": "TXT_STEP_HINT_TAKE_CARD",
+    "ENGLISH": "PICK",
+    "INDONESIAN": "PICK"
+  },
+  {
+    "ID": 224,
+    "KEY": "TXT_STEP_HINT_DUMP_CARD",
+    "ENGLISH": "DUMP",
+    "INDONESIAN": "DUMP"
+  },
+  {
+    "ID": 225,
+    "KEY": "TXT_STEP_HINT_FIGHT",
+    "ENGLISH": "FIGHT",
+    "INDONESIAN": "FIGHT"
+  },
+  {
+    "ID": 226,
+    "KEY": "TXT_STEP_HINT_DRAW_CARD",
+    "ENGLISH": "PICK",
+    "INDONESIAN": "PICK"
+  },
+  {
+    "ID": 227,
+    "KEY": "TXT_STEP_HINT_GIVE_CARD",
+    "ENGLISH": "SAPAW",
+    "INDONESIAN": "SAPAW"
+  },
+  {
+    "ID": 228,
+    "KEY": "TXT_STEP_HINT_DROP_CARD",
+    "ENGLISH": "DROP",
+    "INDONESIAN": "DROP"
+  },
+  {
+    "ID": 229,
+    "KEY": "TXT_FIGHT_CONFIRM",
+    "ENGLISH": "Your score is {0}\nDo you want to FIGHT?",
+    "INDONESIAN": "Your score is {0}\nDo you want to FIGHT?"
+  },
+  {
+    "ID": 230,
+    "KEY": "TXT_ROUND_START_TITLE",
+    "ENGLISH": "ROUND {0}",
+    "INDONESIAN": "ROUND {0}"
+  },
+  {
+    "ID": 231,
+    "KEY": "TXT_ROUND_START_FIRST_TITLE",
+    "ENGLISH": "READY, ROUND 1 !",
+    "INDONESIAN": "READY, ROUND 1 !"
+  },
+  {
+    "ID": 232,
+    "KEY": "TXT_ROUND_START_FINAL_TITLE",
+    "ENGLISH": "FINAL ROUND!!!",
+    "INDONESIAN": "FINAL ROUND!!!"
+  },
+  {
+    "ID": 233,
+    "KEY": "TXT_FIGHT_CANCEL",
+    "ENGLISH": "Cancel",
+    "INDONESIAN": "Cancel"
+  },
+  {
+    "ID": 234,
+    "KEY": "TXT_FIGHT",
+    "ENGLISH": "Fight!",
+    "INDONESIAN": "Fight!"
+  },
+  {
+    "ID": 235,
+    "KEY": "TXT_DUMP_CARD_GAME_CONFIRM_1",
+    "ENGLISH": "This card is a Sapaw card.\nDump this card?",
+    "INDONESIAN": "Kartu ini adalah kartu Sapax.\nMembuang kartu ini?"
+  },
+  {
+    "ID": 236,
+    "KEY": "TXT_DUMP_CARD_GAME_CONFIRM_2",
+    "ENGLISH": "You have no dropped meld. \nNext player can fight and win.\nDump this card?",
+    "INDONESIAN": "Anda tidak memiliki campuran yang jatuh. \nSelanjutnya pemain bisa bertarung dan menang.\nMembuang kartu ini?"
+  },
+  {
+    "ID": 237,
+    "KEY": "TXT_BUTTON_ARRANGE_TYPE_RANK",
+    "ENGLISH": "Rank",
+    "INDONESIAN": "Pangkat"
+  },
+  {
+    "ID": 238,
+    "KEY": "TXT_BUTTON_ARRANGE_TYPE_COMBINATION",
+    "ENGLISH": "Combination",
+    "INDONESIAN": "Kombinasi"
+  },
+  {
+    "ID": 239,
+    "KEY": "TXT_NOTIFY_USER_BURNED_NO_DROPPED_MELD",
+    "ENGLISH": "No dropped meld",
+    "INDONESIAN": "Tidak ada campuran yang jatuh"
+  },
+  {
+    "ID": 240,
+    "KEY": "TXT_NOTIFY_USER_BURNED_NO_MELD",
+    "ENGLISH": "No meld",
+    "INDONESIAN": "Tidak ada perpaduan"
+  },
+  {
+    "ID": 241,
+    "KEY": "TXT_NOTIFY_USER_CHALLENGE_NO_SECRET_MELD",
+    "ENGLISH": "You must have at least one secret meld on hand",
+    "INDONESIAN": "Anda harus memiliki setidaknya satu rahasia berbaur di tangan"
+  },
+  {
+    "ID": 242,
+    "KEY": "TXT_NOTIFY_CHALLENGE_WITH_SECRET_MELD",
+    "ENGLISH": "Secret meld can challenge",
+    "INDONESIAN": "Perpaduan rahasia bisa menantang"
+  },
+  {
+    "ID": 243,
+    "KEY": "TXT_NOTIFY_CHALLENGE_WITH_SECRET_MELD_2",
+    "ENGLISH": "You can challenge\nif your hand have at least one secret meld",
+    "INDONESIAN": "Anda dapat menantang\nJika tangan Anda memiliki setidaknya satu Rahasia Melebur"
+  },
+  {
+    "ID": 244,
+    "KEY": "TXT_CURRENT_SLOT_SCORE",
+    "ENGLISH": "{0}/{1}",
+    "INDONESIAN": "{0}/{1}"
+  },
+  {
+    "ID": 245,
+    "KEY": "TXT_TARGET_SCORE",
+    "ENGLISH": "Target Score",
+    "INDONESIAN": "Target Score"
+  },
+  {
+    "ID": 246,
+    "KEY": "TXT_MAX_MULTIPLY_TITLE",
+    "ENGLISH": "Max Multiply:",
+    "INDONESIAN": "Maks Kalikan:"
+  },
+  {
+    "ID": 247,
+    "KEY": "TXT_SCORE_GAP_MULTIPLY_BONUS_TITLE",
+    "ENGLISH": "Score Gap Bonus",
+    "INDONESIAN": "Bonus Kesenjangan Skor"
+  },
+  {
+    "ID": 248,
+    "KEY": "TXT_KNOCK_BUTTON",
+    "ENGLISH": "KNOCK ({0})",
+    "INDONESIAN": "KNOCK ({0})"
+  },
+  {
+    "ID": 249,
+    "KEY": "TXT_JACKPOT_HELP",
+    "ENGLISH": "You must win every game round to win the Jackpot.\nJackpot rolls over every new game until one of the players win.",
+    "INDONESIAN": "Anda harus memenangkan setiap putaran permainan untuk memenangkan Jackpot.\nJackpot bergulir di setiap game baru sampai salah satu pemain menang."
+  },
+  {
+    "ID": 250,
+    "KEY": "TXT_RULE_GIN_DECK",
+    "ENGLISH": "Gin is played with a standard 52-card pack of cards. The ranking from high to low is King, Queen, Jack,  10, 9, 8, 7, 6, 5, 4, 3, 2, Ace.",
+    "INDONESIAN": "Gin dimainkan dengan paket kartu standar 52 kartu. Peringkat dari tinggi ke rendah adalah King, Queen, Jack, 10, 9, 8, 7, 6, 5, 4, 3, 2, Ace."
+  },
+  {
+    "ID": 251,
+    "KEY": "TXT_RULE_GIN_OBJECTIVE",
+    "ENGLISH": "Objective is to score points by forming melds and eliminating deadwood in order to reach the table target score faster than your opponent. There are two types of melds: 3 or 4 cards of the same rank, and 3 or more suited cards in sequence (aces are always low).",
+    "INDONESIAN": "Tujuannya adalah untuk mencetak poin dengan membentuk perpaduan dan menghilangkan kayu mati untuk mencapai skor target meja lebih cepat dari lawan Anda. Ada dua jenis gabungan: 3 atau 4 kartu dengan peringkat yang sama, dan 3 atau lebih kartu yang cocok secara berurutan (kartu as selalu rendah)."
+  },
+  {
+    "ID": 252,
+    "KEY": "TXT_RULE_GIN_DEADWOOD",
+    "ENGLISH": "The sum of cards in a hand that are not part of a meld.",
+    "INDONESIAN": "Jumlah kartu di tangan yang bukan bagian dari campuran."
+  },
+  {
+    "ID": 253,
+    "KEY": "TXT_RULE_GIN_DEAL",
+    "ENGLISH": "The initial dealer is chosen at random. The dealer then alternates each round. Each player is dealt 10 cards. The 21st card is turned face-up to start the discard pile. The remaining cards (stock pile) are placed face-down next to the discard pile.",
+    "INDONESIAN": "Dealer awal dipilih secara acak. Dealer kemudian bergantian setiap putaran. Setiap pemain dibagikan 10 kartu. Kartu ke-21 diputar menghadap ke atas untuk memulai tumpukan buangan. Kartu yang tersisa (tumpukan stok) ditempatkan menghadap ke bawah di sebelah tumpukan buangan."
+  },
+  {
+    "ID": 254,
+    "KEY": "TXT_RULE_GIN_KNOCKING",
+    "ENGLISH": "When a player has deadwood score 10 or less, he or she can knock. Player who knocked receives a score which is the difference between the opponent\u0027s deadwood sums.",
+    "INDONESIAN": "Ketika seorang pemain memiliki skor kayu mati 10 atau kurang, dia bisa mengetuk. Pemain yang mengetuk menerima skor yang merupakan perbedaan antara jumlah kayu mati lawan."
+  },
+  {
+    "ID": 255,
+    "KEY": "TXT_RULE_GIN_GIN",
+    "ENGLISH": "If all 10 or 11 cards in a player\u0027s hand fit into melds and thereby the player has no deadwood, he or she can choose to go Gin in which case the round ends and the player going Gin receives a bonus of 25 points plus any deadwood points in the opponent\u0027s hand.",
+    "INDONESIAN": "Jika semua 10 atau 11 kartu di tangan pemain cocok dengan perpaduan dan dengan demikian pemain tidak memiliki kayu mati, ia dapat memilih untuk pergi Gin dalam hal ini putaran berakhir dan pemain pergi Gin menerima bonus 25 poin ditambah poin kayu mati di tangan lawan."
+  },
+  {
+    "ID": 256,
+    "KEY": "TXT_RULE_GIN_BIGGIN",
+    "ENGLISH": "Gin hands normally consist of 10 cards. Howerver, if player choose to draw so that 11 cards fit into melds, he or she can declare Big Gin in which case the player receives a Big Gin bonus of 50 points plus any deadwood points in the opponent\u0027s hand.",
+    "INDONESIAN": "Tangan gin biasanya terdiri dari 10 kartu. Howerver, jika pemain memilih untuk menggambar sehingga 11 kartu masuk ke dalam campuran, ia dapat menyatakan Big Gin dalam hal ini pemain menerima bonus Big Gin sebesar 50 poin ditambah poin kayu mati di tangan lawan."
+  },
+  {
+    "ID": 257,
+    "KEY": "TXT_RULE_GIN_UNDERCUT",
+    "ENGLISH": "Occurs when the defending player has a deadwood count lower than or equal to that of the knocking player. In this case, the defender scores an undercut bonus of 25 points plus the difference between the two hands.",
+    "INDONESIAN": "Terjadi ketika pemain bertahan memiliki jumlah kayu mati lebih rendah dari atau sama dengan pemain yang mengetuk. Dalam hal ini, bek mencetak bonus undercut 25 poin ditambah selisih antara kedua tangan."
+  },
+  {
+    "ID": 258,
+    "KEY": "TXT_RULE_GIN_ENDING_ROUND",
+    "ENGLISH": "When deadwood is 10 or less, a player may knock and end the round.",
+    "INDONESIAN": "Ketika kayu mati adalah 10 atau kurang, pemain dapat mengetuk dan mengakhiri putaran."
+  },
+  {
+    "ID": 259,
+    "KEY": "TXT_RULE_GIN_ENDING_GAME",
+    "ENGLISH": "When the point target is reached by a player.",
+    "INDONESIAN": "Ketika target poin tercapai oleh pemain."
+  },
+  {
+    "ID": 260,
+    "KEY": "TXT_RULE_STRAIGHT_GIN",
+    "ENGLISH": "In Straight gin, players are required to play until one of them can go gin. Knocking is not allowed. Scoring and rules remain the same as standard Gin Rummy.",
+    "INDONESIAN": "Di Straight gin, pemain diharuskan bermain sampai salah satunya bisa go gin. Mengetuk tidak diperbolehkan. Skor dan aturan tetap sama dengan standar Gin Rummy."
+  },
+  {
+    "ID": 261,
+    "KEY": "TXT_RULE_OKLAHOMA_GIN",
+    "ENGLISH": "In Oklahoma gin, the value of the first upcard is used to determine the maximum count at which players can knock. If the upcard is a spade, the hand will count double (also known as Spade Double). So if the first upcard is a 4, you can knock and go out with only 4 or fewer points in your hand; and if the 4 was a spade, you would get double points that hand.",
+    "INDONESIAN": "Di Oklahoma gin, nilai upcard pertama digunakan untuk menentukan jumlah maksimum di mana pemain dapat mengetuk. Jika upcard adalah sekop, tangan akan dihitung ganda (juga dikenal sebagai Spade Double). Jadi jika upcard pertama adalah 4, Anda dapat mengetuk dan keluar hanya dengan 4 poin atau kurang di tangan Anda; Dan jika 4 adalah sekop, Anda akan mendapatkan poin ganda di tangan itu."
+  },
+  {
+    "ID": 262,
+    "KEY": "TXT_RULE_GIN_DECK_TITLE",
+    "ENGLISH": "DECK",
+    "INDONESIAN": "DEK"
+  },
+  {
+    "ID": 263,
+    "KEY": "TXT_RULE_GIN_OBJECTIVE_TITLE",
+    "ENGLISH": "OBJECTIVE",
+    "INDONESIAN": "OBYEKTIF"
+  },
+  {
+    "ID": 264,
+    "KEY": "TXT_RULE_GIN_DEADWOOD_TITLE",
+    "ENGLISH": "DEADWOOD",
+    "INDONESIAN": "DEADWOOD"
+  },
+  {
+    "ID": 265,
+    "KEY": "TXT_RULE_GIN_DEAL_TITLE",
+    "ENGLISH": "DEAL",
+    "INDONESIAN": "KESEPAKATAN"
+  },
+  {
+    "ID": 266,
+    "KEY": "TXT_RULE_GIN_KNOCKING_TITLE",
+    "ENGLISH": "KNOCKING",
+    "INDONESIAN": "KNOCKING"
+  },
+  {
+    "ID": 267,
+    "KEY": "TXT_RULE_GIN_GIN_TITLE",
+    "ENGLISH": "GIN",
+    "INDONESIAN": "GIN"
+  },
+  {
+    "ID": 268,
+    "KEY": "TXT_RULE_GIN_BIGGIN_TITLE",
+    "ENGLISH": "BIG GIN",
+    "INDONESIAN": "BIG GIN"
+  },
+  {
+    "ID": 269,
+    "KEY": "TXT_RULE_GIN_UNDERCUT_TITLE",
+    "ENGLISH": "UNDERCUT",
+    "INDONESIAN": "UNDERCUT"
+  },
+  {
+    "ID": 270,
+    "KEY": "TXT_RULE_GIN_ENDING_ROUND_TITLE",
+    "ENGLISH": "ENDING ROUND",
+    "INDONESIAN": "BABAK AKHIR"
+  },
+  {
+    "ID": 271,
+    "KEY": "TXT_RULE_GIN_ENDING_GAME_TITLE",
+    "ENGLISH": "ENDING GAME",
+    "INDONESIAN": "MENGAKHIRI PERMAINAN"
+  },
+  {
+    "ID": 272,
+    "KEY": "TXT_RULE_STRAIGHT_GIN_TITLE",
+    "ENGLISH": "STRAIGHT GIN",
+    "INDONESIAN": "STRAIGHT GIN"
+  },
+  {
+    "ID": 273,
+    "KEY": "TXT_RULE_OKLAHOMA_GIN_TITLE",
+    "ENGLISH": "OKLAHOMA GIN",
+    "INDONESIAN": "OKLAHOMA GIN"
+  },
+  {
+    "ID": 274,
+    "KEY": "TXT_RULE_DETAILS_TITLE",
+    "ENGLISH": "Rules",
+    "INDONESIAN": "Aturan"
+  },
+  {
+    "ID": 275,
+    "KEY": "TXT_RULE_SCORING_TITLE",
+    "ENGLISH": "Scoring",
+    "INDONESIAN": "Penilaian"
+  }
+]

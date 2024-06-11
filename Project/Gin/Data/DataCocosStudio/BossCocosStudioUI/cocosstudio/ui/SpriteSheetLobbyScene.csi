@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="SpriteSheetLobbyScene" Type="Plist" ID="4449a8d1-5fba-4a1f-b674-67329613b445" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/ImageLobbyScene/image_mini_table_1.png" />
+      <FilePathData Path="ui/ImageLobbyScene/image_mini_table_2.png" />
+      <FilePathData Path="ui/ImageLobbyScene/image_mini_table_3.png" />
+      <FilePathData Path="ui/ImageLobbyScene/image_mini_table_4.png" />
+      <FilePathData Path="ui/ImageLobbyScene/image_mini_table_5.png" />
+      <FilePathData Path="ui/ImageLobbyScene/image_table_sample.png" />
+      <FilePathData Path="ui/ImageLobbyScene/image_mini_table_6.png" />
+      <FilePathData Path="ui/ImageLobbyScene/image_mini_table_7.png" />
+      <FilePathData Path="ui/ImageLobbyScene/image_mini_table_8.png" />
+      <FilePathData Path="ui/ImageLobbyScene/image_mini_table_9.png" />
+      <FilePathData Path="ui/ImageLobbyScene/img_room_2.png" />
+      <FilePathData Path="ui/ImageLobbyScene/img_room_3.png" />
+      <FilePathData Path="ui/ImageLobbyScene/img_room_4.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

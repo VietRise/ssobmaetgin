@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_notification_large"
+    android:layout_width="match_parent"
+    android:layout_height="64dp">
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_notification_small" />
+</RelativeLayout>
+-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_notification_large"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    android:layout_alignParentLeft="true"
+    android:layout_centerHorizontal="true"
+    android:background="#FFEB3B"
+    android:fitsSystemWindows="false">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_gravity="fill_vertical"
+        android:adjustViewBounds="false"
+        android:cropToPadding="false"
+        android:fitsSystemWindows="true"
+        android:scaleType="matrix" />
+
+</FrameLayout>

@@ -1,0 +1,23 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="SpriteSheetGameIcon" Type="Plist" ID="540299ce-6136-497f-944a-dd87e381647b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="3" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/ImageGameIcon/ic_default.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_maubinh.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_phom.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_tienlen.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_videopoker.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_chinesepoker.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_tongits.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_banting.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_big2.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_pusoydos.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_susun.png" />
+      <FilePathData Path="ui/ImageGameIcon/icon_pusoy.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_solitaire.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_onet.png" />
+      <FilePathData Path="ui/ImageGameIcon/ic_gin.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

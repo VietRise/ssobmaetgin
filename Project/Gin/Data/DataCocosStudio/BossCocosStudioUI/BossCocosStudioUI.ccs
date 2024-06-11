@@ -1,0 +1,425 @@
+<Solution>
+  <PropertyGroup Name="BossCocosStudioUI" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="plist">
+          <Folder Name="ImageCard">
+            <Image Name="b10.png" />
+            <Image Name="b10_1.png" />
+            <Image Name="b2.png" />
+            <Image Name="b2_1.png" />
+            <Image Name="b3.png" />
+            <Image Name="b3_1.png" />
+            <Image Name="b4.png" />
+            <Image Name="b4_1.png" />
+            <Image Name="b5.png" />
+            <Image Name="b5_1.png" />
+            <Image Name="b6.png" />
+            <Image Name="b6_1.png" />
+            <Image Name="b7.png" />
+            <Image Name="b7_1.png" />
+            <Image Name="b8.png" />
+            <Image Name="b8_1.png" />
+            <Image Name="b9.png" />
+            <Image Name="b9_1.png" />
+            <Image Name="ba.png" />
+            <Image Name="ba_1.png" />
+            <Image Name="back1.png" />
+            <Image Name="bj.png" />
+            <Image Name="bj_1.png" />
+            <Image Name="bk.png" />
+            <Image Name="bk_1.png" />
+            <Image Name="bonus_mark.png" />
+            <Image Name="bonus_mark_1.png" />
+            <Image Name="bq.png" />
+            <Image Name="bq_1.png" />
+            <Image Name="card_circle_color_1.png" />
+            <Image Name="card_circle_color_2.png" />
+            <Image Name="card_circle_color_3.png" />
+            <Image Name="chat_bich.png" />
+            <Image Name="chat_bich_1.png" />
+            <Image Name="chat_bich_small.png" />
+            <Image Name="chat_chuon.png" />
+            <Image Name="chat_chuon_1.png" />
+            <Image Name="chat_chuon_small.png" />
+            <Image Name="chat_co.png" />
+            <Image Name="chat_co_1.png" />
+            <Image Name="chat_co_small.png" />
+            <Image Name="chat_ro.png" />
+            <Image Name="chat_ro_1.png" />
+            <Image Name="chat_ro_small.png" />
+            <Image Name="front.png" />
+            <Image Name="front_color_1.png" />
+            <Image Name="front_color_2.png" />
+            <Image Name="front_color_3.png" />
+            <Image Name="front_small.png" />
+            <Image Name="front_special.png" />
+            <Image Name="front_special_small.png" />
+            <Image Name="front_special1.png" />
+            <Image Name="j_club.png" />
+            <Image Name="j_diamond.png" />
+            <Image Name="j_heart.png" />
+            <Image Name="j_spade.png" />
+            <Image Name="k_club.png" />
+            <Image Name="k_diamond.png" />
+            <Image Name="k_heart.png" />
+            <Image Name="k_spade.png" />
+            <Image Name="q_club.png" />
+            <Image Name="q_diamond.png" />
+            <Image Name="q_heart.png" />
+            <Image Name="q_spade.png" />
+            <Image Name="r10.png" />
+            <Image Name="r10_1.png" />
+            <Image Name="r2.png" />
+            <Image Name="r2_1.png" />
+            <Image Name="r3.png" />
+            <Image Name="r3_1.png" />
+            <Image Name="r4.png" />
+            <Image Name="r4_1.png" />
+            <Image Name="r5.png" />
+            <Image Name="r5_1.png" />
+            <Image Name="r6.png" />
+            <Image Name="r6_1.png" />
+            <Image Name="r7.png" />
+            <Image Name="r7_1.png" />
+            <Image Name="r8.png" />
+            <Image Name="r8_1.png" />
+            <Image Name="r9.png" />
+            <Image Name="r9_1.png" />
+            <Image Name="ra.png" />
+            <Image Name="ra_1.png" />
+            <Image Name="rj.png" />
+            <Image Name="rj_1.png" />
+            <Image Name="rk.png" />
+            <Image Name="rk_1.png" />
+            <Image Name="rq.png" />
+            <Image Name="rq_1.png" />
+          </Folder>
+          <PlistInfo Name="SpriteSheetCard.csi" Type="Plist" />
+        </Folder>
+        <Folder Name="ui">
+          <Folder Name="background">
+            <Image Name="bg2.png" />
+          </Folder>
+          <Folder Name="Common">
+            <Project Name="ActionConfirmPopup.csd" Type="Layer" />
+            <Project Name="ChangeAvatarPopup.csd" Type="Layer" />
+            <Project Name="CheatCardLayer.csd" Type="Layer" />
+            <Project Name="CheatMoneyLayer.csd" Type="Layer" />
+            <Project Name="ContinueToPlayConfirmPopup.csd" Type="Layer" />
+            <Project Name="DailyBonusPopup.csd" Type="Layer" />
+            <Project Name="DeadwoodBox.csd" Type="Layer" />
+            <Project Name="DebugLayer.csd" Type="Layer" />
+            <Project Name="EndMatchResultPopup.csd" Type="Layer" />
+            <Project Name="FightChallengerPopup.csd" Type="Layer" />
+            <Project Name="GameCenterItem.csd" Type="Node" />
+            <Project Name="GameCenterPopup.csd" Type="Layer" />
+            <Project Name="GameResultPopup.csd" Type="Layer" />
+            <Project Name="GetMoneyPopup.csd" Type="Layer" />
+            <Project Name="JackpotIcon.csd" Type="Node" />
+            <Project Name="LeaderboardPopup.csd" Type="Layer" />
+            <Project Name="LoadingLayer.csd" Type="Layer" />
+            <Project Name="LobbySettingBoard.csd" Type="Layer" />
+            <Project Name="LobbyShopTableBoard.csd" Type="Layer" />
+            <Project Name="LobbyShopTableItem.csd" Type="Node" />
+            <Project Name="LobbyTicketFlightBoard.csd" Type="Layer" />
+            <Project Name="LobbyUserInfoBoard.csd" Type="Layer" />
+            <Project Name="LobbyVideoRewardInforPopup.csd" Type="Layer" />
+            <Project Name="MailboxContentPopup.csd" Type="Layer" />
+            <Project Name="MailboxPopup.csd" Type="Layer" />
+            <Project Name="MainUserInfoLayout.csd" Type="Layer" />
+            <Project Name="MoneyBox.csd" Type="Layer" />
+            <Project Name="NewsPopup.csd" Type="Layer" />
+            <Project Name="NotifyPopup.csd" Type="Layer" />
+            <Project Name="RatingPopup.csd" Type="Layer" />
+            <Project Name="RatingPopupThank.csd" Type="Layer" />
+            <Project Name="ResultScoreBox.csd" Type="Layer" />
+            <Project Name="RewardPopup.csd" Type="Layer" />
+            <Project Name="RoundPointPopup.csd" Type="Layer" />
+            <Project Name="RuleDetails.csd" Type="Layer" />
+            <Project Name="RuleScore.csd" Type="Layer" />
+            <Project Name="ScoreBox.csd" Type="Layer" />
+            <Project Name="SuggestUpdatePopup.csd" Type="Layer" />
+            <Project Name="ThrowCardDetailPopup.csd" Type="Layer" />
+            <Project Name="TutorialLayout.csd" Type="Layer" />
+            <Project Name="UserInfoLayout.csd" Type="Layer" />
+            <Project Name="YesNoConfirmPopup.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="fonts">
+            <Fnt Name="font_normal.fnt" />
+            <Fnt Name="font_normal1.fnt" />
+            <TTF Name="Rubik-Medium.ttf" />
+            <TTF Name="Rubik-Regular.ttf" />
+          </Folder>
+          <Folder Name="GameplayScene">
+            <Folder Name="Gin">
+              <Project Name="GPGinControlLayer.csd" Type="Layer" />
+              <Project Name="GPGinInterfaceLayer.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="TableLayout">
+              <Project Name="TableLayout1.csd" Type="Layer" />
+            </Folder>
+          </Folder>
+          <Folder Name="ImageGameIcon">
+            <Image Name="ic_banting.png" />
+            <Image Name="ic_big2.png" />
+            <Image Name="ic_chinesepoker.png" />
+            <Image Name="ic_default.png" />
+            <Image Name="ic_gin.png" />
+            <Image Name="ic_maubinh.png" />
+            <Image Name="ic_onet.png" />
+            <Image Name="ic_phom.png" />
+            <Image Name="ic_pusoydos.png" />
+            <Image Name="ic_solitaire.png" />
+            <Image Name="ic_susun.png" />
+            <Image Name="ic_tienlen.png" />
+            <Image Name="ic_tongits.png" />
+            <Image Name="ic_videopoker.png" />
+            <Image Name="icon_pusoy.png" />
+          </Folder>
+          <Folder Name="ImageGPGin">
+            <Image Name="BG_group_right.png" />
+            <Image Name="biggin_E.png" />
+            <Image Name="biggin50_E.png" />
+            <Image Name="boder_00000.png" />
+            <Image Name="boder_00001.png" />
+            <Image Name="boder_00002.png" />
+            <Image Name="boder_00003.png" />
+            <Image Name="boder_00004.png" />
+            <Image Name="boder_00005.png" />
+            <Image Name="boder_00006.png" />
+            <Image Name="boder_00007.png" />
+            <Image Name="boder_00008.png" />
+            <Image Name="boder_00009.png" />
+            <Image Name="boder_00010.png" />
+            <Image Name="done.png" />
+            <Image Name="draw_E.png" />
+            <Image Name="gin_E.png" />
+            <Image Name="gin25_E.png" />
+            <Image Name="highlight_card_taked.png" />
+            <Image Name="knock_E.png" />
+            <Image Name="muiten.png" />
+            <Image Name="pass_E.png" />
+            <Image Name="spade_doubles_E.png" />
+            <Image Name="star.png" />
+            <Image Name="thinking.png" />
+            <Image Name="turn_circle.png" />
+            <Image Name="undercut_E.png" />
+            <Image Name="win_E.png" />
+            <Image Name="button_biggin_text.png" />
+            <Image Name="button_gin_text.png" />
+          </Folder>
+          <Folder Name="ImageLobbyScene">
+            <Image Name="image_mini_table_1.png" />
+            <Image Name="image_mini_table_2.png" />
+            <Image Name="image_mini_table_3.png" />
+            <Image Name="image_mini_table_4.png" />
+            <Image Name="image_mini_table_5.png" />
+            <Image Name="image_mini_table_6.png" />
+            <Image Name="image_mini_table_7.png" />
+            <Image Name="image_mini_table_8.png" />
+            <Image Name="image_mini_table_9.png" />
+            <Image Name="image_table_sample.png" />
+            <Image Name="img_room_2.png" />
+            <Image Name="img_room_3.png" />
+            <Image Name="img_room_4.png" />
+          </Folder>
+          <Folder Name="ImagesCommon">
+            <Image Name="ads.png" />
+            <Image Name="arrow.png" />
+            <Image Name="avatar_alpha.png" />
+            <Image Name="avatar_border_big.png" />
+            <Image Name="bangthongbao_bg.png" />
+            <Image Name="bangthongbao_bg2.png" />
+            <Image Name="bangthongbao_bg3.png" />
+            <Image Name="bet_coin.png" />
+            <Image Name="bg_black_round.png" />
+            <Image Name="BG_info.png" />
+            <Image Name="bg_label.png" />
+            <Image Name="bg_light_round.png" />
+            <Image Name="bg_rounded_1.png" />
+            <Image Name="bglogin_foreground_000.png" />
+            <Image Name="board_lv.png" />
+            <Image Name="bord_1.png" />
+            <Image Name="btn_hourly_bonus_get.png" />
+            <Image Name="button_1.png" />
+            <Image Name="button_1_click.png" />
+            <Image Name="button_2.png" />
+            <Image Name="button_2_click.png" />
+            <Image Name="button_3.png" />
+            <Image Name="button_3_click.png" />
+            <Image Name="button_4.png" />
+            <Image Name="button_4_click.png" />
+            <Image Name="button_5.png" />
+            <Image Name="button_5_click.png" />
+            <Image Name="button_6.png" />
+            <Image Name="button_6_click.png" />
+            <Image Name="button_addfriends.png" />
+            <Image Name="button_addfriends_press.png" />
+            <Image Name="button_back.png" />
+            <Image Name="button_back_click.png" />
+            <Image Name="button_back_highlight.png" />
+            <Image Name="button_close.png" />
+            <Image Name="button_close_click.png" />
+            <Image Name="button_disable.png" />
+            <Image Name="button_game_center_click.png" />
+            <Image Name="button_game_center_normal.png" />
+            <Image Name="button_help_normal.png" />
+            <Image Name="button_help_press.png" />
+            <Image Name="button_icon.png" />
+            <Image Name="button_icon_press.png" />
+            <Image Name="button_leaderboard.png" />
+            <Image Name="button_leaderboard_press.png" />
+            <Image Name="button_mailbox_click.png" />
+            <Image Name="button_mailbox_normal.png" />
+            <Image Name="button_playgame.png" />
+            <Image Name="button_rating_normal.png" />
+            <Image Name="button_rating_press.png" />
+            <Image Name="button_setting.png" />
+            <Image Name="button_setting_press.png" />
+            <Image Name="button_shop.png" />
+            <Image Name="button_shop_press.png" />
+            <Image Name="button_video.png" />
+            <Image Name="button_video_press.png" />
+            <Image Name="cancel.png" />
+            <Image Name="challenge_result.png" />
+            <Image Name="chechbox_mark.png" />
+            <Image Name="checkbox_bg.png" />
+            <Image Name="combine_frame.png" />
+            <Image Name="daily_bonus_background_normal.png" />
+            <Image Name="daily_bonus_title_E.png" />
+            <Image Name="effect_light_vang.png" />
+            <Image Name="fight_result.png" />
+            <Image Name="fill_star.png" />
+            <Image Name="gift_box.png" />
+            <Image Name="gift_box_open.png" />
+            <Image Name="grey_round_button.png" />
+            <Image Name="grey_round_button_click.png" />
+            <Image Name="grey_star.png" />
+            <Image Name="grow_arrow.png" />
+            <Image Name="icon_apple_game_center.png" />
+            <Image Name="icon_flag.png" />
+            <Image Name="icon_like.png" />
+            <Image Name="icon_mail.png" />
+            <Image Name="icon_money.png" />
+            <Image Name="icon_off.png" />
+            <Image Name="icon_policy.png" />
+            <Image Name="icon_progress.png" />
+            <Image Name="icon_refresh.png" />
+            <Image Name="icon_rewards.png" />
+            <Image Name="icon_share.png" />
+            <Image Name="icon_star.png" />
+            <Image Name="image_circle_score.png" />
+            <Image Name="image_icon_notification.png" />
+            <Image Name="image_icon_notification2.png" />
+            <Image Name="image_lucky_stick_on.png" />
+            <Image Name="image_new_1.png" />
+            <Image Name="image_table_shader.png" />
+            <Image Name="image_unlock_disable.png" />
+            <Image Name="image_unlock_enable.png" />
+            <Image Name="img_10.png" />
+            <Image Name="img_11.png" />
+            <Image Name="img_12.png" />
+            <Image Name="img_13.png" />
+            <Image Name="img_14.png" />
+            <Image Name="img_15.png" />
+            <Image Name="img_16.png" />
+            <Image Name="img_17.png" />
+            <Image Name="img_18.png" />
+            <Image Name="img_19.png" />
+            <Image Name="img_20.png" />
+            <Image Name="img_21.png" />
+            <Image Name="img_22.png" />
+            <Image Name="img_23.png" />
+            <Image Name="img_5.png" />
+            <Image Name="img_6.png" />
+            <Image Name="img_7.png" />
+            <Image Name="img_8.png" />
+            <Image Name="img_9.png" />
+            <Image Name="img_circle_solid.png" />
+            <Image Name="img_glow.png" />
+            <Image Name="img_jackpot_icon_1.png" />
+            <Image Name="img_jackpot_icon_1_grey.png" />
+            <Image Name="img_money.png" />
+            <Image Name="img_profile.png" />
+            <Image Name="img_score.png" />
+            <Image Name="img_tri.png" />
+            <Image Name="img_white_arrow.png" />
+            <Image Name="img_white_circle.png" />
+            <Image Name="information.png" />
+            <Image Name="jackpot_bg.png" />
+            <Image Name="jackpot_bg1.png" />
+            <Image Name="jackpot_bg2.png" />
+            <Image Name="level_bg.png" />
+            <Image Name="level_top.png" />
+            <Image Name="loadingcir.png" />
+            <Image Name="noads.png" />
+            <Image Name="pg_bg.png" />
+            <Image Name="popup_patt.png" />
+            <Image Name="progress_bg.png" />
+            <Image Name="ribbon_win.png" />
+            <Image Name="search_icon.png" />
+            <Image Name="small_ava_border.png" />
+            <Image Name="table_2.png" />
+            <Image Name="textfield_stick.png" />
+            <Image Name="thinking.png" />
+            <Image Name="timebonus_1.png" />
+            <Image Name="timebonus_2.png" />
+            <Image Name="timebonus_3.png" />
+            <Image Name="timebonus_4.png" />
+            <Image Name="title_time_bonus.png" />
+            <Image Name="tongits_result.png" />
+            <Image Name="trophy.png" />
+            <Image Name="trophy1.png" />
+            <Image Name="trophy2.png" />
+            <Image Name="unfill_star.png" />
+            <Image Name="up.png" />
+            <Image Name="user_avatar.png" />
+            <Image Name="user_info.png" />
+            <Image Name="winner_result.png" />
+            <Image Name="button_7.png" />
+            <Image Name="button_7_click.png" />
+          </Folder>
+          <Folder Name="ImagesEventDecor">
+            <Image Name="newyear_apricot.png" />
+            <Image Name="newyear_cracker.png" />
+            <Image Name="newyear_fireworks.png" />
+          </Folder>
+          <Folder Name="ImageSplashScene">
+            <Image Name="logo.png" />
+          </Folder>
+          <Folder Name="LobbyScene">
+            <Project Name="LobbyScene.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="particle">
+            <PlistParticleFile Name="bet_effect.plist" />
+            <PlistParticleFile Name="burn.plist" />
+            <PlistParticleFile Name="burn_still.plist" />
+            <PlistParticleFile Name="burn2.plist" />
+            <PlistParticleFile Name="drop.plist" />
+            <PlistParticleFile Name="fight.plist" />
+            <PlistParticleFile Name="fight2.plist" />
+            <PlistParticleFile Name="gin_button_particle.plist" />
+            <PlistParticleFile Name="particle_bg_ingame_left.plist" />
+            <PlistParticleFile Name="particle_bg_ingame_top.plist" />
+            <PlistParticleFile Name="particle_bg_lobby_left.plist" />
+            <PlistParticleFile Name="particle_bg_lobby_top.plist" />
+            <PlistParticleFile Name="particle_jackpot.plist" />
+            <PlistParticleFile Name="star_burn_still.plist" />
+            <PlistParticleFile Name="star_special.plist" />
+            <PlistParticleFile Name="test3.plist" />
+          </Folder>
+          <Folder Name="SplashScene">
+            <Project Name="SplashScene.csd" Type="Layer" />
+          </Folder>
+          <PlistInfo Name="SpriteSheetCommon.csi" Type="Plist" />
+          <PlistInfo Name="SpriteSheetEventDecor.csi" Type="Plist" />
+          <PlistInfo Name="SpriteSheetGameIcon.csi" Type="Plist" />
+          <PlistInfo Name="SpritesheetGinGameplayScene.csi" Type="Plist" />
+          <PlistInfo Name="SpriteSheetLobbyScene.csi" Type="Plist" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

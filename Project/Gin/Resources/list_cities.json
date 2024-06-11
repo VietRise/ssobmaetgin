@@ -1,0 +1,74 @@
+{
+  "list_cities": [
+    {
+      "id": 1,
+      "name": "CLASSIC GIN",
+      "status": 1,
+      "bot_num": 1,
+      "bet_min": 1,
+      "bet_max": 10,
+      "bonus": [
+        {
+          "ratio": 1,
+          "chance": 1
+        }
+      ],
+      "unlock_condition": [],
+      "purchase_price": 0,
+	  "jackpot_ratio_bet": 1.0,
+	  "required_money": 0
+    },
+    {
+      "id": 2,
+      "name": "STRAIGHT GIN",
+      "status": 1,
+      "bot_num": 1,
+      "bet_min": 1,
+      "bet_max": 10,
+      "bonus": [
+        {
+          "ratio": 1,
+          "chance": 0.95
+        },
+		{
+          "ratio": 2,
+          "chance": 0.025
+        },
+        {
+          "ratio": 3,
+          "chance": 0.025
+        }
+      ],
+      "unlock_condition": [],
+      "purchase_price": 0,
+	  "jackpot_ratio_bet": 1.0,
+	  "required_money": 0
+    },
+	{
+      "id": 3,
+      "name": "OKLAHOMA",
+      "status": 1,
+      "bot_num": 1,
+      "bet_min": 1,
+      "bet_max": 10,
+      "bonus": [
+        {
+          "ratio": 1,
+          "chance": 0.95
+        },
+		{
+          "ratio": 2,
+          "chance": 0.025
+        },
+        {
+          "ratio": 3,
+          "chance": 0.025
+        }
+      ],
+      "unlock_condition": [],
+      "purchase_price": 0,
+	  "jackpot_ratio_bet": 1.0,
+	  "required_money": 0
+    }
+  ]
+}

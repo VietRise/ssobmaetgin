@@ -1,0 +1,617 @@
+{
+  "show_time": 6,
+  "condition": {
+    "1": {
+      "m": {
+        "enabled": 0,
+        "min": 20000000,
+        "max": null
+      },
+      "lv": {
+        "enabled": 0,
+        "min": 20,
+        "max": 999
+      },
+      "wr": {
+        "enabled": 0,
+        "min": 0,
+        "max": 100
+      },
+      "ws": {
+        "enabled": 0,
+        "min": 2,
+        "max": 50
+      },
+      "tmlt": {
+        "enabled": 0,
+        "min": 10,
+        "max": 1000
+      },
+      "mc1": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "mc2": {
+        "enabled": 0,
+        "min": 1,
+        "max": 200
+      },
+      "mc3": {
+        "enabled": 0,
+        "min": 0,
+        "max": 200
+      },
+      "cu": {
+        "enabled": 0,
+        "min": 2,
+        "max": 3
+      },
+      "wbm": {
+        "enabled": 0,
+        "min": 1,
+        "max": 45
+      },
+      "lm": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "sc": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "sil": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "sig": {
+        "enabled": 0,
+        "min": 1,
+        "max": 1
+      },
+      "mo": {
+        "enabled": 0,
+        "min": 10,
+        "max": 999
+      },
+      "wmp": {
+        "enabled": 1,
+        "min": 2,
+        "max": 999
+      },
+      "jp": {
+        "enabled": 1,
+        "min": 1,
+        "max": 1
+      },
+      "go": {
+        "enabled": 1,
+        "min": 1,
+        "max": 999
+      },
+      "ro": {
+        "enabled": 1,
+        "min": 1,
+        "max": 999
+      },
+      "wg": {
+        "enabled": 1,
+        "min": 1,
+        "max": 1
+      }
+    },
+    "2": {
+      "m": {
+        "enabled": 0,
+        "min": 20000000,
+        "max": null
+      },
+      "lv": {
+        "enabled": 0,
+        "min": 20,
+        "max": 999
+      },
+      "wr": {
+        "enabled": 0,
+        "min": 0,
+        "max": 100
+      },
+      "ws": {
+        "enabled": 0,
+        "min": 2,
+        "max": 50
+      },
+      "tmlt": {
+        "enabled": 0,
+        "min": 10,
+        "max": 1000
+      },
+      "mc1": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "mc2": {
+        "enabled": 0,
+        "min": 1,
+        "max": 200
+      },
+      "mc3": {
+        "enabled": 0,
+        "min": 0,
+        "max": 200
+      },
+      "cu": {
+        "enabled": 0,
+        "min": 2,
+        "max": 3
+      },
+      "wbm": {
+        "enabled": 0,
+        "min": 1,
+        "max": 45
+      },
+      "lm": {
+        "enabled": 0,
+        "min": 50400,
+        "max": 525600
+      },
+      "sc": {
+        "enabled": 0,
+        "min": 1,
+        "max": 1
+      },
+      "sil": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "sig": {
+        "enabled": 0,
+        "min": 1,
+        "max": 1
+      },
+      "mo": {
+        "enabled": 0,
+        "min": 10,
+        "max": 999
+      },
+      "wmp": {
+        "enabled": 1,
+        "min": 2,
+        "max": 999
+      },
+      "jp": {
+        "enabled": 1,
+        "min": 1,
+        "max": 1
+      },
+      "go": {
+        "enabled": 1,
+        "min": 1,
+        "max": 999
+      },
+      "ro": {
+        "enabled": 1,
+        "min": 1,
+        "max": 999
+      },
+      "wg": {
+        "enabled": 1,
+        "min": 1,
+        "max": 1
+      }
+    },
+    "3": {
+      "m": {
+        "enabled": 0,
+        "min": 20000000,
+        "max": null
+      },
+      "lv": {
+        "enabled": 0,
+        "min": 20,
+        "max": 999
+      },
+      "wr": {
+        "enabled": 0,
+        "min": 0,
+        "max": 100
+      },
+      "ws": {
+        "enabled": 0,
+        "min": 2,
+        "max": 50
+      },
+      "tmlt": {
+        "enabled": 0,
+        "min": 10,
+        "max": 1000
+      },
+      "mc1": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "mc2": {
+        "enabled": 0,
+        "min": 1,
+        "max": 200
+      },
+      "mc3": {
+        "enabled": 0,
+        "min": 0,
+        "max": 200
+      },
+      "cu": {
+        "enabled": 0,
+        "min": 2,
+        "max": 3
+      },
+      "wbm": {
+        "enabled": 0,
+        "min": 1,
+        "max": 45
+      },
+      "lm": {
+        "enabled": 0,
+        "min": 50400,
+        "max": 525600
+      },
+      "sc": {
+        "enabled": 0,
+        "min": 2,
+        "max": 2
+      },
+      "sil": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "sig": {
+        "enabled": 0,
+        "min": 1,
+        "max": 1
+      },
+      "mo": {
+        "enabled": 0,
+        "min": 10,
+        "max": 999
+      },
+      "wmp": {
+        "enabled": 1,
+        "min": 2,
+        "max": 999
+      },
+      "jp": {
+        "enabled": 1,
+        "min": 1,
+        "max": 1
+      },
+      "go": {
+        "enabled": 1,
+        "min": 1,
+        "max": 999
+      },
+      "ro": {
+        "enabled": 1,
+        "min": 1,
+        "max": 999
+      },
+      "wg": {
+        "enabled": 1,
+        "min": 1,
+        "max": 1
+      }
+    },
+    "4": {
+      "m": {
+        "enabled": 0,
+        "min": 20000000,
+        "max": null
+      },
+      "lv": {
+        "enabled": 0,
+        "min": 20,
+        "max": 999
+      },
+      "wr": {
+        "enabled": 0,
+        "min": 0,
+        "max": 100
+      },
+      "ws": {
+        "enabled": 0,
+        "min": 2,
+        "max": 50
+      },
+      "tmlt": {
+        "enabled": 0,
+        "min": 10,
+        "max": 1000
+      },
+      "mc1": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "mc2": {
+        "enabled": 0,
+        "min": 1,
+        "max": 200
+      },
+      "mc3": {
+        "enabled": 0,
+        "min": 0,
+        "max": 200
+      },
+      "cu": {
+        "enabled": 0,
+        "min": 2,
+        "max": 3
+      },
+      "wbm": {
+        "enabled": 0,
+        "min": 1,
+        "max": 45
+      },
+      "lm": {
+        "enabled": 0,
+        "min": 50400,
+        "max": 525600
+      },
+      "sc": {
+        "enabled": 0,
+        "min": 3,
+        "max": 3
+      },
+      "sil": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "sig": {
+        "enabled": 0,
+        "min": 1,
+        "max": 1
+      },
+      "mo": {
+        "enabled": 0,
+        "min": 10,
+        "max": 999
+      },
+      "wmp": {
+        "enabled": 1,
+        "min": 2,
+        "max": 999
+      },
+      "jp": {
+        "enabled": 1,
+        "min": 1,
+        "max": 1
+      },
+      "go": {
+        "enabled": 1,
+        "min": 1,
+        "max": 999
+      },
+      "ro": {
+        "enabled": 1,
+        "min": 1,
+        "max": 999
+      },
+      "wg": {
+        "enabled": 1,
+        "min": 1,
+        "max": 1
+      }
+    },
+    "5": {
+      "m": {
+        "enabled": 0,
+        "min": 20000000,
+        "max": null
+      },
+      "lv": {
+        "enabled": 0,
+        "min": 20,
+        "max": 999
+      },
+      "wr": {
+        "enabled": 0,
+        "min": 0,
+        "max": 100
+      },
+      "ws": {
+        "enabled": 0,
+        "min": 2,
+        "max": 50
+      },
+      "tmlt": {
+        "enabled": 0,
+        "min": 10,
+        "max": 1000
+      },
+      "mc1": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "mc2": {
+        "enabled": 0,
+        "min": 1,
+        "max": 200
+      },
+      "mc3": {
+        "enabled": 0,
+        "min": 0,
+        "max": 200
+      },
+      "cu": {
+        "enabled": 0,
+        "min": 2,
+        "max": 3
+      },
+      "wbm": {
+        "enabled": 0,
+        "min": 1,
+        "max": 45
+      },
+      "lm": {
+        "enabled": 0,
+        "min": 50400,
+        "max": 525600
+      },
+      "sc": {
+        "enabled": 0,
+        "min": 4,
+        "max": 4
+      },
+      "sil": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "sig": {
+        "enabled": 0,
+        "min": 1,
+        "max": 1
+      },
+      "mo": {
+        "enabled": 0,
+        "min": 10,
+        "max": 999
+      },
+      "wmp": {
+        "enabled": 1,
+        "min": 2,
+        "max": 999
+      },
+      "jp": {
+        "enabled": 1,
+        "min": 1,
+        "max": 1
+      },
+      "go": {
+        "enabled": 1,
+        "min": 1,
+        "max": 999
+      },
+      "ro": {
+        "enabled": 1,
+        "min": 1,
+        "max": 999
+      },
+      "wg": {
+        "enabled": 1,
+        "min": 1,
+        "max": 1
+      }
+    },
+    "6": {
+      "m": {
+        "enabled": 0,
+        "min": 20000000,
+        "max": null
+      },
+      "lv": {
+        "enabled": 0,
+        "min": 20,
+        "max": 999
+      },
+      "wr": {
+        "enabled": 0,
+        "min": 0,
+        "max": 100
+      },
+      "ws": {
+        "enabled": 0,
+        "min": 2,
+        "max": 50
+      },
+      "tmlt": {
+        "enabled": 0,
+        "min": 10,
+        "max": 1000
+      },
+      "mc1": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "mc2": {
+        "enabled": 0,
+        "min": 1,
+        "max": 200
+      },
+      "mc3": {
+        "enabled": 0,
+        "min": 0,
+        "max": 200
+      },
+      "cu": {
+        "enabled": 0,
+        "min": 2,
+        "max": 3
+      },
+      "wbm": {
+        "enabled": 0,
+        "min": 1,
+        "max": 45
+      },
+      "lm": {
+        "enabled": 0,
+        "min": 50400,
+        "max": 525600
+      },
+      "sc": {
+        "enabled": 0,
+        "min": 5,
+        "max": 5
+      },
+      "sil": {
+        "enabled": 0,
+        "min": 0,
+        "max": 0
+      },
+      "sig": {
+        "enabled": 0,
+        "min": 1,
+        "max": 1
+      },
+      "mo": {
+        "enabled": 0,
+        "min": 10,
+        "max": 999
+      },
+      "wmp": {
+        "enabled": 1,
+        "min": 2,
+        "max": 999
+      },
+      "jp": {
+        "enabled": 1,
+        "min": 1,
+        "max": 1
+      },
+      "go": {
+        "enabled": 1,
+        "min": 1,
+        "max": 999
+      },
+      "ro": {
+        "enabled": 1,
+        "min": 1,
+        "max": 999
+      },
+      "wg": {
+        "enabled": 1,
+        "min": 1,
+        "max": 1
+      }
+    }
+  }
+}

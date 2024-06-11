@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui/ImageLobbyScene/image_mini_table_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,731},{239,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,143}</string>
+			</dict>
+			<key>ui/ImageLobbyScene/image_mini_table_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,878},{239,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,143}</string>
+			</dict>
+			<key>ui/ImageLobbyScene/image_mini_table_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{200,2},{239,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,143}</string>
+			</dict>
+			<key>ui/ImageLobbyScene/image_mini_table_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{200,149},{239,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,143}</string>
+			</dict>
+			<key>ui/ImageLobbyScene/image_mini_table_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{200,296},{239,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,143}</string>
+			</dict>
+			<key>ui/ImageLobbyScene/image_table_sample.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{200,443},{239,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,143}</string>
+			</dict>
+			<key>ui/ImageLobbyScene/image_mini_table_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,590},{239,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,143}</string>
+			</dict>
+			<key>ui/ImageLobbyScene/image_mini_table_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{245,737},{239,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,143}</string>
+			</dict>
+			<key>ui/ImageLobbyScene/image_mini_table_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{443,2},{239,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,143}</string>
+			</dict>
+			<key>ui/ImageLobbyScene/image_mini_table_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{443,149},{239,143}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,143}</string>
+			</dict>
+			<key>ui/ImageLobbyScene/img_room_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{194,239}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{194,239}</string>
+			</dict>
+			<key>ui/ImageLobbyScene/img_room_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,245},{194,239}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{194,239}</string>
+			</dict>
+			<key>ui/ImageLobbyScene/img_room_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,488},{194,239}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{194,239}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SpriteSheetLobbyScene.png</string>
+			<key>realTextureFileName</key>
+			<string>SpriteSheetLobbyScene.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

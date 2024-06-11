@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>ui/ImageGameIcon/ic_default.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{903,3},{96,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{96,96}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_maubinh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3,3},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_phom.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3,153},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_tienlen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{3,303},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_videopoker.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{153,3},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_chinesepoker.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{153,153},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_tongits.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{153,303},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_banting.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{303,3},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_big2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{303,153},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_pusoydos.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{303,303},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_susun.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{453,3},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/icon_pusoy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{453,153},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_solitaire.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{453,303},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_onet.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{603,3},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+			<key>ui/ImageGameIcon/ic_gin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{753,3},{144,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,144}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SpriteSheetGameIcon.png</string>
+			<key>realTextureFileName</key>
+			<string>SpriteSheetGameIcon.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

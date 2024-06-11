@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+
+  Created by Viet Chau on 28/03/2022.
+  
+*/
+
+NSCalendarsUsageDescription = "purpose for using calendar";
+NSPhotoLibraryAddUsageDescription = "Our application needs permission to write photos...";
+NSPhotoLibraryUsageDescription = "{human-readable reason for photo access}";
+NSUserTrackingUsageDescription = "This identifier will be used to deliver personalized ads to you.";

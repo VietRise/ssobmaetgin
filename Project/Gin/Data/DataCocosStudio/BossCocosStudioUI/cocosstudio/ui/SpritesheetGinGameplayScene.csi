@@ -1,0 +1,37 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="SpritesheetGinGameplayScene" Type="Plist" ID="c1e5962f-8efd-4e2d-b40d-e80d6e65877f" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/ImageGPGin/boder_00000.png" />
+      <FilePathData Path="ui/ImageGPGin/boder_00001.png" />
+      <FilePathData Path="ui/ImageGPGin/boder_00002.png" />
+      <FilePathData Path="ui/ImageGPGin/boder_00003.png" />
+      <FilePathData Path="ui/ImageGPGin/boder_00004.png" />
+      <FilePathData Path="ui/ImageGPGin/boder_00005.png" />
+      <FilePathData Path="ui/ImageGPGin/boder_00006.png" />
+      <FilePathData Path="ui/ImageGPGin/boder_00007.png" />
+      <FilePathData Path="ui/ImageGPGin/boder_00008.png" />
+      <FilePathData Path="ui/ImageGPGin/boder_00009.png" />
+      <FilePathData Path="ui/ImageGPGin/boder_00010.png" />
+      <FilePathData Path="ui/ImageGPGin/highlight_card_taked.png" />
+      <FilePathData Path="ui/ImageGPGin/muiten.png" />
+      <FilePathData Path="ui/ImageGPGin/star.png" />
+      <FilePathData Path="ui/ImageGPGin/thinking.png" />
+      <FilePathData Path="ui/ImageGPGin/done.png" />
+      <FilePathData Path="ui/ImageGPGin/win_E.png" />
+      <FilePathData Path="ui/ImageGPGin/BG_group_right.png" />
+      <FilePathData Path="ui/ImageGPGin/undercut_E.png" />
+      <FilePathData Path="ui/ImageGPGin/gin25_E.png" />
+      <FilePathData Path="ui/ImageGPGin/biggin50_E.png" />
+      <FilePathData Path="ui/ImageGPGin/pass_E.png" />
+      <FilePathData Path="ui/ImageGPGin/knock_E.png" />
+      <FilePathData Path="ui/ImageGPGin/draw_E.png" />
+      <FilePathData Path="ui/ImageGPGin/spade_doubles_E.png" />
+      <FilePathData Path="ui/ImageGPGin/gin_E.png" />
+      <FilePathData Path="ui/ImageGPGin/biggin_E.png" />
+      <FilePathData Path="ui/ImageGPGin/button_biggin_text.png" />
+      <FilePathData Path="ui/ImageGPGin/button_gin_text.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

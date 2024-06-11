@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="SpriteSheetLoginScene" Type="Plist" ID="9ed0284d-10d3-4906-a218-d0745ec45c62" Version="2.3.3.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/ImagesLoginScene/button_close.png" />
+      <FilePathData Path="ui/ImagesLoginScene/button_facebook.png" />
+      <FilePathData Path="ui/ImagesLoginScene/button_play.png" />
+      <FilePathData Path="ui/ImagesLoginScene/button_register.png" />
+      <FilePathData Path="ui/ImagesLoginScene/button_submit.png" />
+      <FilePathData Path="ui/ImagesLoginScene/textfield_input.png" />
+      <FilePathData Path="ui/ImagesLoginScene/titile_forgetpassword.png" />
+      <FilePathData Path="ui/ImagesLoginScene/titile_login.png" />
+      <FilePathData Path="ui/ImagesLoginScene/title_register.png" />
+      <FilePathData Path="ui/ImagesLoginScene/ImageTick.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

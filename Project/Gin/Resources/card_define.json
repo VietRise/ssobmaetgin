@@ -1,0 +1,596 @@
+{
+  "club_2": {
+    "index": 5,
+    "skin_1": [
+      "plist/ImageCard/chat_chuon.png",
+      "plist/ImageCard/b2.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/b2_1.png"
+    ]
+  },
+  "club_3": {
+    "index": 9,
+    "skin_1": [
+      "plist/ImageCard/chat_chuon.png",
+      "plist/ImageCard/b3.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/b3_1.png"
+    ]
+  },
+  "club_4": {
+    "index": 13,
+    "skin_1": [
+      "plist/ImageCard/chat_chuon.png",
+      "plist/ImageCard/b4.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/b4_1.png"
+    ]
+  },
+  "club_5": {
+    "index": 17,
+    "skin_1": [
+      "plist/ImageCard/chat_chuon.png",
+      "plist/ImageCard/b5.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/b5_1.png"
+    ]
+  },
+  "club_6": {
+    "index": 21,
+    "skin_1": [
+      "plist/ImageCard/chat_chuon.png",
+      "plist/ImageCard/b6.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/b6_1.png"
+    ]
+  },
+  "club_7": {
+    "index": 25,
+    "skin_1": [
+      "plist/ImageCard/chat_chuon.png",
+      "plist/ImageCard/b7.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/b7_1.png"
+    ]
+  },
+  "club_8": {
+    "index": 29,
+    "skin_1": [
+      "plist/ImageCard/chat_chuon.png",
+      "plist/ImageCard/b8.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/b8_1.png"
+    ]
+  },
+  "club_9": {
+    "index": 33,
+    "skin_1": [
+      "plist/ImageCard/chat_chuon.png",
+      "plist/ImageCard/b9.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/b9_1.png"
+    ]
+  },
+  "club_10": {
+    "index": 37,
+    "skin_1": [
+      "plist/ImageCard/chat_chuon.png",
+      "plist/ImageCard/b10.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/b10_1.png"
+    ]
+  },
+  "club_J": {
+    "index": 41,
+    "skin_1": [
+      "plist/ImageCard/j_club.png",
+      "plist/ImageCard/bj.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/bj_1.png"
+    ]
+  },
+  "club_Q": {
+    "index": 45,
+    "skin_1": [
+      "plist/ImageCard/q_club.png",
+      "plist/ImageCard/bq.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/bq_1.png"
+    ]
+  },
+  "club_K": {
+    "index": 49,
+    "skin_1": [
+      "plist/ImageCard/k_club.png",
+      "plist/ImageCard/bk.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/bk_1.png"
+    ]
+  },
+  "club_ace": {
+    "index": 1,
+    "skin_1": [
+      "plist/ImageCard/chat_chuon.png",
+      "plist/ImageCard/ba.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_chuon_1.png",
+      "plist/ImageCard/ba_1.png"
+    ]
+  },
+  "diamond_2": {
+    "index": 4,
+    "skin_1": [
+      "plist/ImageCard/chat_ro.png",
+      "plist/ImageCard/r2.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/r2_1.png"
+    ]
+  },
+  "diamond_3": {
+    "index": 8,
+    "skin_1": [
+      "plist/ImageCard/chat_ro.png",
+      "plist/ImageCard/r3.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/r3_1.png"
+    ]
+  },
+  "diamond_4": {
+    "index": 12,
+    "skin_1": [
+      "plist/ImageCard/chat_ro.png",
+      "plist/ImageCard/r4.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/r4_1.png"
+    ]
+  },
+  "diamond_5": {
+    "index": 16,
+    "skin_1": [
+      "plist/ImageCard/chat_ro.png",
+      "plist/ImageCard/r5.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/r5_1.png"
+    ]
+  },
+  "diamond_6": {
+    "index": 20,
+    "skin_1": [
+      "plist/ImageCard/chat_ro.png",
+      "plist/ImageCard/r6.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/r6_1.png"
+    ]
+  },
+  "diamond_7": {
+    "index": 24,
+    "skin_1": [
+      "plist/ImageCard/chat_ro.png",
+      "plist/ImageCard/r7.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/r7_1.png"
+    ]
+  },
+  "diamond_8": {
+    "index": 28,
+    "skin_1": [
+      "plist/ImageCard/chat_ro.png",
+      "plist/ImageCard/r8.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/r8_1.png"
+    ]
+  },
+  "diamond_9": {
+    "index": 32,
+    "skin_1": [
+      "plist/ImageCard/chat_ro.png",
+      "plist/ImageCard/r9.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/r9_1.png"
+    ]
+  },
+  "diamond_10": {
+    "index": 36,
+    "skin_1": [
+      "plist/ImageCard/chat_ro.png",
+      "plist/ImageCard/r10.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/r10_1.png"
+    ]
+  },
+  "diamond_J": {
+    "index": 40,
+    "skin_1": [
+      "plist/ImageCard/j_diamond.png",
+      "plist/ImageCard/rj.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/rj_1.png"
+    ]
+  },
+  "diamond_Q": {
+    "index": 44,
+    "skin_1": [
+      "plist/ImageCard/q_diamond.png",
+      "plist/ImageCard/rq.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/rq_1.png"
+    ]
+  },
+  "diamond_K": {
+    "index": 48,
+    "skin_1": [
+      "plist/ImageCard/k_diamond.png",
+      "plist/ImageCard/rk.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/rk_1.png"
+    ]
+  },
+  "diamond_ace": {
+    "index": 0,
+    "skin_1": [
+      "plist/ImageCard/chat_ro.png",
+      "plist/ImageCard/ra.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_ro_1.png",
+      "plist/ImageCard/ra_1.png"
+    ]
+  },
+  "heart_2": {
+    "index": 6,
+    "skin_1": [
+      "plist/ImageCard/chat_co.png",
+      "plist/ImageCard/r2.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/r2_1.png"
+    ]
+  },
+  "heart_3": {
+    "index": 10,
+    "skin_1": [
+      "plist/ImageCard/chat_co.png",
+      "plist/ImageCard/r3.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/r3_1.png"
+    ]
+  },
+  "heart_4": {
+    "index": 14,
+    "skin_1": [
+      "plist/ImageCard/chat_co.png",
+      "plist/ImageCard/r4.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/r4_1.png"
+    ]
+  },
+  "heart_5": {
+    "index": 18,
+    "skin_1": [
+      "plist/ImageCard/chat_co.png",
+      "plist/ImageCard/r5.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/r5_1.png"
+    ]
+  },
+  "heart_6": {
+    "index": 22,
+    "skin_1": [
+      "plist/ImageCard/chat_co.png",
+      "plist/ImageCard/r6.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/r6_1.png"
+    ]
+  },
+  "heart_7": {
+    "index": 26,
+    "skin_1": [
+      "plist/ImageCard/chat_co.png",
+      "plist/ImageCard/r7.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/r7_1.png"
+    ]
+  },
+  "heart_8": {
+    "index": 30,
+    "skin_1": [
+      "plist/ImageCard/chat_co.png",
+      "plist/ImageCard/r8.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/r8_1.png"
+    ]
+  },
+  "heart_9": {
+    "index": 34,
+    "skin_1": [
+      "plist/ImageCard/chat_co.png",
+      "plist/ImageCard/r9.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/r9_1.png"
+    ]
+  },
+  "heart_10": {
+    "index": 38,
+    "skin_1": [
+      "plist/ImageCard/chat_co.png",
+      "plist/ImageCard/r10.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/r10_1.png"
+    ]
+  },
+  "heart_J": {
+    "index": 42,
+    "skin_1": [
+      "plist/ImageCard/j_heart.png",
+      "plist/ImageCard/rj.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/rj_1.png"
+    ]
+  },
+  "heart_Q": {
+    "index": 46,
+    "skin_1": [
+      "plist/ImageCard/q_heart.png",
+      "plist/ImageCard/rq.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/rq_1.png"
+    ]
+  },
+  "heart_K": {
+    "index": 50,
+    "skin_1": [
+      "plist/ImageCard/k_heart.png",
+      "plist/ImageCard/rk.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/rk_1.png"
+    ]
+  },
+  "heart_ace": {
+    "index": 2,
+    "skin_1": [
+      "plist/ImageCard/chat_co.png",
+      "plist/ImageCard/ra.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_co_1.png",
+      "plist/ImageCard/ra_1.png"
+    ]
+  },
+  "spade_2": {
+    "index": 7,
+    "skin_1": [
+      "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/b2.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/b2_1.png"
+    ]
+  },
+  "spade_3": {
+    "index": 11,
+    "skin_1": [
+      "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/b3.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/b3_1.png"
+    ]
+  },
+  "spade_4": {
+    "index": 15,
+    "skin_1": [
+      "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/b4.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/b4_1.png"
+    ]
+  },
+  "spade_5": {
+    "index": 19,
+    "skin_1": [
+      "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/b5.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/b5_1.png"
+    ]
+  },
+  "spade_6": {
+    "index": 23,
+    "skin_1": [
+      "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/b6.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/b6_1.png"
+    ]
+  },
+  "spade_7": {
+    "index": 27,
+    "skin_1": [
+      "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/b7.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/b7_1.png"
+    ]
+  },
+  "spade_8": {
+    "index": 31,
+    "skin_1": [
+      "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/b8.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/b8_1.png"
+    ]
+  },
+  "spade_9": {
+    "index": 35,
+    "skin_1": [
+      "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/b9.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/b9_1.png"
+    ]
+  },
+  "spade_10": {
+    "index": 39,
+    "skin_1": [
+      "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/b10.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/b10_1.png"
+    ]
+  },
+  "spade_J": {
+    "index": 43,
+    "skin_1": [
+      "plist/ImageCard/j_spade.png",
+      "plist/ImageCard/bj.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/bj_1.png"
+    ]
+  },
+  "spade_Q": {
+    "index": 47,
+    "skin_1": [
+      "plist/ImageCard/q_spade.png",
+      "plist/ImageCard/bq.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/bq_1.png"
+    ]
+  },
+  "spade_K": {
+    "index": 51,
+    "skin_1": [
+      "plist/ImageCard/k_spade.png",
+      "plist/ImageCard/bk.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/bk_1.png"
+    ]
+  },
+  "spade_ace": {
+    "index": 3,
+    "skin_1": [
+      "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/ba.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich_1.png",
+      "plist/ImageCard/ba_1.png"
+    ]
+  },
+  "joker_red": {
+    "index": -1,
+    "skin_1": [
+      "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/ba.png"
+    ],
+	"skin_2": [
+      "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/ba.png"
+    ]
+  },
+  "joker_black": {
+    "index": -1,
+    "skin_1": [
+       "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/ba.png"
+    ],
+	"skin_2": [
+       "plist/ImageCard/chat_bich.png",
+      "plist/ImageCard/ba.png"
+    ]
+  }
+}

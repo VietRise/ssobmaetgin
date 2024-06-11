@@ -1,0 +1,10 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="SpriteSheetEventDecor" Type="Plist" ID="0f5c4dba-58e1-4b2a-b03a-6ef3f23e2b12" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ui/ImagesEventDecor/newyear_apricot.png" />
+      <FilePathData Path="ui/ImagesEventDecor/newyear_cracker.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>
